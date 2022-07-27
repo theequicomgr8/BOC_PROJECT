@@ -1,0 +1,36 @@
+.blinking {
+    animation: blinkingText 1.8s infinite;
+}
+
+@keyframes blinkingText {
+    0% {
+        color: red;
+    }
+
+    49% {
+        color: transparent;
+    }
+
+    100% {
+        color: red;
+    }
+}
+
+.fmblinking {
+    animation: fmblinkingText 1.8s infinite;
+}
+
+@keyframes fmblinkingText {
+    0% {
+        color: white;
+    }
+
+    49% {
+        color: transparent;
+    }
+
+    100% {
+        color: white;
+    }
+}
+

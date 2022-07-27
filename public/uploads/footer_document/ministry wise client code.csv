@@ -1,0 +1,1822 @@
+Sr no,HEAD,HEAD_NAME,min_name_new
+1,1101,D/o. Agriculture & Cooperation,Agriculture
+2,1102,"Dte. of Extension, Delhi",Agriculture
+3,1103,"Dte. of Economic & Statistics, Delhi",Agriculture
+4,1104,"Dte. of Plant Protection, Faridabad",Agriculture
+5,1105,Central Fertilizer Quality Cont.& Trg.Instt.  Faridabad,Agriculture
+6,1106,"MANAGE, Hydrabad",Agriculture
+7,1107,Coconut Development Board,Agriculture
+8,1108,"National Fertilizer Dev. Centre, Ghaziabad",Agriculture
+9,1109,"Dte.  of Jute Dev., Kolkata",Agriculture
+10,1110,"Dte.  of Cotton Dev., Mumbai",Agriculture
+11,1111,"National Seed Research & Training Centre, Varanasi",Agriculture
+12,1112,"National Seeds Corporation, Delhi",Agriculture
+13,1113,"National Horticulture Board, Gurgaon",Agriculture
+14,1115,Agricultural Insurance Company of India Ltd.,Agriculture
+15,1116,Vaikunth Mehta National Instt of Cooperative Management.,Agriculture
+16,1117,"Small Farmers Agri Business Consortium, New Delhi",Agriculture
+17,1118,The Multi-State Economic Development Co-Oprative Society Ltd,Agriculture
+18,1119,Farm Machine Trg. Instt. Anantpur,Agriculture
+19,1120,Farm Machine Trg. Instt. Hissar,Agriculture
+20,1121,Farm Machine Trg. Instt. Bundi,Agriculture
+21,1122,Forward Market Commission Mumbai,Agriculture
+22,1123,"Dte. of Mktg. & Inspection, Faridabad",Agriculture
+23,1124,"Dte. of Mktg. & Inspection, Chennai",Agriculture
+24,1125,"Dte. of Mktg. & Inspection, Kolkata",Agriculture
+25,1126,"Dte. of Mktg. & Inspection, Hyderabad",Agriculture
+26,1127,"Dte. of Mktg. & Inspection, Lucknow",Agriculture
+27,1128,"Dte. of Mktg. & Inspection, Azimgarh",Agriculture
+28,1129,"Dte. of Mktg. & Inspection, Jaipur",Agriculture
+29,1130,"Dte. of Mktg. & Inspection,Mumbai",Agriculture
+30,1131,"Dte. of Mktg. & Inspection, Bangalore",Agriculture
+31,1132,"Dte. of Mktg. & Inspection, Chandigarh",Agriculture
+32,1133,"Dte. of Mktg. & Inspection, Bhopal",Agriculture
+33,1134,"Dte. of Mktg. & Inspection, Cochin",Agriculture
+34,1135,"Dte. of Marketing and Inspection, Dehradun",Agriculture
+35,1136,"Dte. of Mktg. & Inspection, Jammu",Agriculture
+36,1137,"Directorate of Marketing and Inspection, Amritsar",Agriculture
+37,1138,"Central Institute of Horticulture, New Delhi",Agriculture
+38,1139,"All India Soil and Land Use Survey, New Delhi",Agriculture
+39,1140,"Dte. of Marketing and Inspection, New Delhi",Agriculture
+40,1141,"Farm Machinery Training and Testing Institute, Sonitpur",Agriculture
+41,1142,"National Cooperative Development Corporation, New Delhi",Agriculture
+42,1143,National Centre Of Organic Farming,Agriculture
+43,1144,National Agricultural Cooperative Marketing Federation (NAFED),Agriculture
+44,1145,National Rainfed Area Authority (NRAA),Agriculture
+45,1146,Plant Varieties and Farmers Right Authority,Agriculture
+46,1147,"Regional Centre Of Organic Farming,Panchkula",Agriculture
+47,1201,Deptt. of Animal Husbandry & Dairying,Agriculture
+48,1202,Delhi Milk Scheme,Agriculture
+49,1203,Central Cattle Breeding Farm Suratgarh,Agriculture
+50,1204,"Central Cattle Breeding Farm, Bangalore",Agriculture
+51,1205,"Central Sheep Breeding Farm, Hissar",Agriculture
+52,1206,Central Poultry Breeding Farm,Agriculture
+53,1207,"Central Poultry Breeding Farm, Mumbai",Agriculture
+54,1208,"Central Poultry Breeding Farm, Bhubaneswar",Agriculture
+55,1209,"Central Poultry Breeding Farm, Bangalore",Agriculture
+56,1210,"Central Poultry Breeding Farm, Chandigarh",Agriculture
+57,1211,Central Duck Breeding Farm Bangalore,Agriculture
+58,1212,"Central Poultry Trg. Instt., Bangalore",Agriculture
+59,1213,"National Project on Rinderpest, Delhi",Agriculture
+60,1214,"National Inst. of Fisheries,Post Harvest Technology and Trg, Kochi(Ingrd.Fishereis Proj)",Agriculture
+61,1215,"Central Instt. of Fish  Nautical & Engg. Technology, Kochi",Agriculture
+62,1216,"Fish Survey of India, Mumbai",Agriculture
+63,1217,"Fish Survey of India, Porbander",Agriculture
+64,1218,"Fish Survey of India, Port Blair",Agriculture
+65,1219,"Fish Survey of India, Cochin",Agriculture
+66,1220,"Fish Survey of India, Goa",Agriculture
+67,1221,"National Fisheries Development Board, Hyderabad",Agriculture
+68,1222,"Veterinary Council of India, New Delhi",Agriculture
+69,1223,"Fisheries Survey of India, Chennai",Agriculture
+70,1224,"Central Poultry Performance, Testing Centre, Gurgaon",Agriculture
+71,1301,Deptt. of Agricultural Research & Education,Agriculture
+72,1302,INDIAN COUNCIL OF AGRICULTURAL RESEARCH (PRO),Agriculture
+73,1303,ICAR (Admn),Agriculture
+74,1304,ICAR (Education),Agriculture
+75,1305,ICAR (Award Cell),Agriculture
+76,1306,"ICAR(DIPA), Delhi",Agriculture
+77,1307,Agricultural Scientists Recruitment Board (ASRB),Agriculture
+78,1308,NATP,Agriculture
+79,1309,NAIP,Agriculture
+80,1310,CIBA Chennai,Agriculture
+81,1311,"DRR, Hyderabad",Agriculture
+82,1312,"PD of Cattle, Meerut",Agriculture
+83,1313,"IGRI, Bangalore",Agriculture
+84,1314,"CIFT, Kochi",Agriculture
+85,1315,"NCIPM, New Delhi",Agriculture
+86,1316,"NE Complex, Shillong",Agriculture
+87,1317,"NAARM, Hyderabad",Agriculture
+88,1318,"CARI, U.P.",Agriculture
+89,1319,"IVRI, Izatnagar",Agriculture
+90,1320,"IARI, New Delhi",Agriculture
+91,1321,"NRC, EQUINES, Hissar",Agriculture
+92,1322,"CSWRI, Jaipur",Agriculture
+93,1323,"NDRI, Karnal",Agriculture
+94,1324,"CMFRI, Kochi",Agriculture
+95,1325,"SBI, Coimbtore",Agriculture
+96,1326,"CRRI, Cuttack",Agriculture
+97,1327,"CT CRI, Trivendrum",Agriculture
+98,1328,"NATIONAL INSTITUTE OF RESEARCH ON JUTE AND ALLIED FIBRE TECHNOLOGY,KOLKATA",Agriculture
+99,1329,"IASRI, Delhi",Agriculture
+100,1330,"CIRCOT, Mumbai",Agriculture
+101,1331,"IVRI, Nainital",Agriculture
+102,1332,"CAZRI, Jodhpur",Agriculture
+103,1333,"CSSRI, Karnal",Agriculture
+104,1334,VPKA Almora,Agriculture
+105,1335,"CICFRI, Barrackpur",Agriculture
+106,1336,"CTRI, Rajamudri",Agriculture
+107,1337,"CPRI, Shimla",Agriculture
+108,1338,"CRIJAF, Barrackpur",Agriculture
+109,1339,"IIHR, Bangalore",Agriculture
+110,1340,"CIRG, Mathura",Agriculture
+111,1341,"IGFRI, Jhansi",Agriculture
+112,1342,"ILRI, Ranchi",Agriculture
+113,1343,"DOR, Hyderabad",Agriculture
+114,1344,"CARI, Port Blair",Agriculture
+115,1345,"CSWCR, Dehradun",Agriculture
+116,1346,"NRCCWF, Nainital",Agriculture
+117,1347,"NBSSLUP, Nagpur",Agriculture
+118,1348,"NACF, Delhi",Agriculture
+119,1349,"NBPGR, Delhi",Agriculture
+120,1350,"NRC Camel, Bikaner",Agriculture
+121,1351,"CISS, Lucknow",Agriculture
+122,1352,"NBAGR, Karnal",Agriculture
+123,1353,"NBFGR, Allahabad",Agriculture
+124,1354,"PDPOULTRY,  Hyderabad",Agriculture
+125,1355,"National research Centre for Agroforestry, Jhansi",Agriculture
+126,1356,"NRC, Citrus, Nagpur",Agriculture
+127,1357,"NRC Weed Science, Jabalpur",Agriculture
+128,1358,"PDBC, Bangalore",Agriculture
+129,1359,High Security Animal Disease Lab (I.V.R.I) Bhopal,Agriculture
+130,1360,"IVR, Varanasi",Agriculture
+131,1361,"NRCASU, Karnataka",Agriculture
+132,1362,"CIPHE, Ludhiana",Agriculture
+133,1363,"CITH, Srinagar",Agriculture
+134,1364,"NRC for Women, Bhubaneswar",Agriculture
+135,1365,"NRC for Mithun, Nagaland",Agriculture
+136,1366,"NRC for Orchid, Sikkim",Agriculture
+137,1367,"NIANP, Bangalore",Agriculture
+138,1368,"NRC, Sorgum, Hyderabad",Agriculture
+139,1369,Project Dte. for Foot & Mouth Disease,Agriculture
+140,1370,"Central Agricultural University, Imphal",Agriculture
+141,1371,"ADMASS, Bangalore",Agriculture
+142,1372,"NBSSLUP, Delhi",Agriculture
+143,1373,"National Research Centre for Soyabean, Indore",Agriculture
+144,1374,"National Dairy Research Institute, Kalyani",Agriculture
+145,1375,"National Institute of Agriculture (NIAM), Jaipur",Agriculture
+146,1376,"Punjab Agricultural University, Ludhiana",Agriculture
+147,1377,Agrinnovate India Ltd,Agriculture
+148,1378,National research Centre on Plant Biotechnology,Agriculture
+149,2101,D/o. Chemicals & Petrochemicals,Chemical & Fertilizers
+150,2102,National Pharmaceutical  Pricing Authority,Chemical & Fertilizers
+151,2103,"Instt. of  Pesticide Formulation Technology, Gurgaon",Chemical & Fertilizers
+152,2104,"Indian Drugs and Pharmaceuticals Lmt, Gurgoan",Chemical & Fertilizers
+153,2105,"Projects And Development India Limited,Noida",Chemical & Fertilizers
+154,2106,Hindustan Organic Chemicals Limited,Chemical & Fertilizers
+155,2107,Department of Pharmaceuticals,Chemical & Fertilizers
+156,2108,"Central Institute of Plastics Engineering & Technology (CIPET),Agartala",Chemical & Fertilizers
+157,2201,D/o. Fertilizers,Chemical & Fertilizers
+158,2202,Fertilizer Industry Coordination Committee,Chemical & Fertilizers
+159,2203,Brahmputra Valley Fertilizers Corporation,Chemical & Fertilizers
+160,2204,"Central Institute of Plastic Engg. Technology,Guwahati",Chemical & Fertilizers
+161,2205,Rashtriya Chemicals and Fertilizers Ltd.,Chemical & Fertilizers
+162,2206,National Fertilizers Limited,Chemical & Fertilizers
+163,2207,"Projects & Development India Ltd.(PDIL),Dhanbad",Chemical & Fertilizers
+164,2208,"FCI Aravali Gypsum and Minerals India Ltd.,Jodhpur",Chemical & Fertilizers
+165,3101,M/o. Civil Aviation,Civil Aviation
+166,3102,DG Civil Aviation,Civil Aviation
+167,3103,Indira Gandhi International Airport,Civil Aviation
+168,3104,Indira Gandhi Rashtriya Udan Academy,Civil Aviation
+169,3105,"Bureau of Civil Aviation Security, New Delhi",Civil Aviation
+170,3106,"Hotel Corporation of India Ltd., New Delhi",Civil Aviation
+171,3107,"Office of the Director of Airworthiness, Mumbai Airport, Mumbai",Civil Aviation
+172,3108,"Office of the Director of Airworthiness,L.G.B.I Airport,Guwahati",Civil Aviation
+173,3109,Pawan Hans Limited,Civil Aviation
+174,3110,Rajiv Gandhi National Aviation University (RGNAU),Civil Aviation
+175,3111,Airports Authority of India,Civil Aviation
+176,3112,Airports Economic Regularity Authority of India,Civil Aviation
+177,3113,Commissioner of Metro Railway Safety (CMRS),Civil Aviation
+178,4101,M/o. Coal,Coal
+179,4102,"Coal Mines PF Organisation, Dhanbad",Coal
+180,4103,Coal India Limited,Coal
+181,4104,South Eastern Coalfields Limited.,Coal
+182,4105,Mahanadi Coalfields Ltd.,Coal
+183,4106,Eastern Coalfields Limited,Coal
+184,5101,D/o. Commerce,Commerce & Industry
+185,5102,"Export Inspection Council of India, Delhi",Commerce & Industry
+186,5103,"Indian Institute of Foreign Trade, Delhi",Commerce & Industry
+187,5104,Federation of Indian Export Organisation,Commerce & Industry
+188,5105,DG Foreign Trade,Commerce & Industry
+189,5106,"DG, Commerce Intelligence, Kolkata",Commerce & Industry
+190,5107,"Madras, Special Economic Zone",Commerce & Industry
+191,5108,"Vishakapatnam, Special Economic Zone",Commerce & Industry
+192,5109,"India Trade Promotion Organization, New Delhi",Commerce & Industry
+193,5110,"M.M.T.C. Ltd, New Delhi",Commerce & Industry
+194,5111,"Council for Leather Exports, Egmore, Chennai",Commerce & Industry
+195,5112,"Agricultural and Processed Food Products Export Development Authority, New Delhi",Commerce & Industry
+196,5113,"Office of the Development Commissioner, SEEPZ, SEZ, Mumbai",Commerce & Industry
+197,5114,Indo - Asean,Commerce & Industry
+198,5115,"EEPC INDIA,New Delhi",Commerce & Industry
+199,5116,"Indian Institute Of Packaging,Mumbai",Commerce & Industry
+200,5117,"Indian Institute of Packaging, Chennai Centre",Commerce & Industry
+201,5118,Pharmaceuticals Export Promotion Council of India,Commerce & Industry
+202,5119,"Tea Board, India",Commerce & Industry
+203,5120,"Special Economic Zone,Indore",Commerce & Industry
+204,5121,Footwear Design & Development Institute,Commerce & Industry
+205,5122,CHEMEXIL,Commerce & Industry
+206,5123,"Shellac and Forest Products Export Promotion Council(SHEFEXIL),kolkata",Commerce & Industry
+207,5124,The Rubber Board,Commerce & Industry
+208,5125,India Brand Equity Foundation,Commerce & Industry
+209,5126,Government e-Marketplace(GeM),Commerce & Industry
+210,5201,D/o. Industrial Policy & Promotion,Commerce & Industry
+211,5202,"Controller General Of Patents, Designs & Trade Marks",Commerce & Industry
+212,5203,DG S&D,Commerce & Industry
+213,5204,"National Instt. of Foundary & Forge Technology, Ranchi",Commerce & Industry
+214,5205,"Quality Council, Delhi",Commerce & Industry
+215,5206,"National Productivity Council, Delhi",Commerce & Industry
+216,5207,"National Council for Cement & Building Materials, Ballabhgarh, Haryana.",Commerce & Industry
+217,5208,"The Salt Commissioner, Jaipur",Commerce & Industry
+218,5209,"D/o. Explosives/Petroleum & Explosives Safety Orgn., Nagpur",Commerce & Industry
+219,5210,"National Manufacturing Competitiveness Council, Vigyan Bhavan Annexe, Delhi",Commerce & Industry
+220,5211,Intellectual Property Appellate Board,Commerce & Industry
+221,5212,"Central Pulp & Paper Research Institute, Saharanpur",Commerce & Industry
+222,5213,"Salt Commissioner, Chennai",Commerce & Industry
+223,5214,"Petroleum and Explosives Safety Organisation, Agra",Commerce & Industry
+224,5215,The Plastics Export Promotional Council (PLEXCONCIL),Commerce & Industry
+225,5216,"National Institute of Design(NID),Ahmedabad",Commerce & Industry
+226,5217,Services Export Promotion Council,Commerce & Industry
+227,5218,"National Institute of Design(NID),Andhra Pradesh",Commerce & Industry
+228,5219,"National Institute of Design(NID),Haryana",Commerce & Industry
+229,5220,Spices Board,Commerce & Industry
+230,6101,D/o. Information Technology,Information Technology
+231,6102,"DOEACC, New Delhi",Information Technology
+232,6103,"Centre of Electronic Design, Imphal",Information Technology
+233,6104,"National Institute Of Electronics And Information Technology (NIELIT),Calicut",Information Technology
+234,6105,Centre for Advance Computing,Information Technology
+235,6106,National Informatics Centre,Information Technology
+236,6107,NICSI,Information Technology
+237,6108,Controller of Certifying Authority,Information Technology
+238,6109,"SOCIETY FOR APPLIED MICROWAVE ELECTRONIC ENGG. AND RESEARCH, MUMBAI",Information Technology
+239,6110,"CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING, HYDERABAD",Information Technology
+240,6111,"SOFTWARE TECHNOLOGY PARKS OF INDIA, DEHRADUN",Information Technology
+241,6112,"DOEACC, GUWAHATI",Information Technology
+242,6113,"CENTRE FOR DEV.OF ADVANCE COMPUTING, BANGALORE",Information Technology
+243,6114,"Indian Institute of Quality Management, Jaipur",Information Technology
+244,6115,"CENTRE FOR ELECTRONICS TEST ENGINEERING (CETE), NOIDA",Information Technology
+245,6116,"STQC Directorate, New Delhi",Information Technology
+246,6117,ERNET India (New Delhi),Information Technology
+247,6118,"STQC IT SERVICES, KOLKATA",Information Technology
+248,6119,"Centre for Electromagnatics, Chennai",Information Technology
+249,6120,"Centre for Reliability, Chennai",Information Technology
+250,6121,"Electonics Regional Test Laboratory (East), Kolkata",Information Technology
+251,6122,"Electronics Test and Development Centre, Chennai",Information Technology
+252,6123,"Software Technology Parks of India, New Delhi",Information Technology
+253,6124,National e-Governance Plan (NeGP),Information Technology
+254,6125,"Electronics Test and Development Centre,Agartala",Information Technology
+255,6126,"Electronics Test and Development Centre, Guwahati",Information Technology
+256,6127,"National Institute of Electronics And Information Technology (NIELIT),Agartala",Information Technology
+257,6128,"Electronics Regional Test Laboratory (North),New Delhi",Information Technology
+258,6129,"Electronics Test and Development Centre, Ajmer",Information Technology
+259,6130,"Centre for Development of Advanced Computing, Noida",Information Technology
+260,6131,"Centre for Development of Advanced Computing, New Delhi",Information Technology
+261,6132,"Centre for Development of Advanced Computing,Pune",Information Technology
+262,6133,"Center for Materials for Electronics Technology,Thrissur",Information Technology
+263,6134,"Center for Materials for Electronics Technology,Mohali",Information Technology
+264,6135,Common Services Centers(CSC),Information Technology
+265,6136,"Software Technology Parks of India,Noida",Information Technology
+266,6137,"National Institute Of Electronics And Information Technology (NIELIT),Guwahati",Information Technology
+267,6138,"Centre for Development of Advanced Computing,Mumbai",Information Technology
+268,6139,"SAMEER- Centre for Electromagnetic Environmental Effects (E3),Visakhapatnam",Information Technology
+269,6140,"Centre for Development of Advanced Computing,Silchar",Information Technology
+270,6141,"National Institute Of Electronics And Information Technology (NIELIT),Chandigarh",Information Technology
+271,6142,"National Institute Of Electronics And Information Technology (NIELIT),Ajmer",Information Technology
+272,6143,"National Institute Of Electronics And Information Technology (NIELIT),Chennai",Information Technology
+273,6144,"National Institute Of Electronics And Information Technology (NIELIT),Shillong",Information Technology
+274,6145,"National Institute Of Electronics And Information Technology (NIELIT),Kurukshetra",Information Technology
+275,6146,"National Instiute Of Electronics And Information Technology (NIELIT),Gorakhpur",Information Technology
+276,6147,"Centre for Development of Advance Computing,Kolkata",Information Technology
+277,6148,"National Institute of Electronics And Information Technology (NIELIT),Shimla",Information Technology
+278,6149,"National Institute of Electronics And Information Technology (NIELIT),Haridwar",Information Technology
+279,6150,"National Institute of Electronics And Information Technology (NIELIT),Imphal",Information Technology
+280,6151,"Software Technology Parks of India,Guwahati",Information Technology
+281,6152,"National Institute of Electronics And Information Technology (NIELIT), Aurangabad",Information Technology
+282,6153,"Centre for Development of Advanced Computing,Patna",Information Technology
+283,6154,"Centre for Development of Advanced Computing,Chennai",Information Technology
+284,6201,Deptt. of Telecommunications,Telecommunications
+285,6202,Telecom Regulatory Authority of India,Telecommunications
+286,6203,"MTNL, Delhi",Telecommunications
+287,6204,"BSNL, Delhi",Telecommunications
+288,6205,"BSNL, Northern Region",Telecommunications
+289,6206,"D/o. Telecom, Lucknow",Telecommunications
+290,6207,"Telecom Disputes Settlement and Appellate Tribunal, New Delhi",Telecommunications
+291,6208,"B S N L, Jamnagar",Telecommunications
+292,6209,"BSNL, O/o PGMTD, Jaipur",Telecommunications
+293,6210,"BSNL - O/o GMTD, Banswara",Telecommunications
+294,6211,"BHARAT SANCHAR NIGAM LIMITED, TIRUVANANTHAPURAM",Telecommunications
+295,6212,"BHARAT SANCHAR NIGAM LIMITED, GHAZIABAD",Telecommunications
+296,6213,"BSNL, Patna",Telecommunications
+297,6214,"BSNL, Chennai",Telecommunications
+298,6215,"Telecom Enforcement Resource And Monitoring (TERM) Cell,Guwahati",Telecommunications
+299,6216,"Telecommunication Consultants India Limited,New Delhi",Telecommunications
+300,6217,"Bharat Broadband Newtwork Limited,Delhi",Telecommunications
+301,6218,"Telecom Regulatory Authority of India-TCEP Fund,Delhi",Telecommunications
+302,6219,"O/o Controller Of Communication Accounts,Rajsthan Telecom Circle, Jaipur",Telecommunications
+303,6220,"Office of Principal CCA, Delhi Region",Telecommunications
+304,6221,"Telecom Enforcement Resource And Monitoring (TERM) Cell,Pune",Telecommunications
+305,6222,"Telecom Enforcement Resource And Monitoring (TERM) Cell,Patna",Telecommunications
+306,6223,Indian Telephone Industries (ITI) Ltd.,Telecommunications
+307,6224,"Telecom Enforcement, Resources & Monitoring Cell",Telecommunications
+308,6225,Wireless Monitoring Organiztaion,Telecommunications
+309,6226,"Telecom Enforcement Resource And Monitoring (TERM) Cell,Merrut",Telecommunications
+310,6227,"Office of Senior Dy. Director General (TERM),Kerala",Telecommunications
+311,6228,"Office of Sr. DDG,J&K Licensed Service Area",Telecommunications
+312,6229,"Office of Advisor,Karnataka Licensed Service Area",Telecommunications
+313,6230,"Office of Sr. DDG MPLSA,Bhopal",Telecommunications
+314,6231,"Office of Sr. DDG AP LSA,Hyderabad",Telecommunications
+315,6232,"MTNL Corporate Office,Delhi",Telecommunications
+316,6233,"Office of Senior Dy. Director General,Haryana LSA,Ambala",Telecommunications
+317,6234,"Telecom Enforcement Resource And Monitoring (TERM) Cell,Chandigarh",Telecommunications
+318,6235,"Telecom Engineering Centre (TEC),New Delhi",Telecommunications
+319,6236,"MTNL,Mumbai",Telecommunications
+320,6237,"O/o Controller Of Communication Accounts,M.P Circle,Bhopal",Telecommunications
+321,6238,"O/o The Controller Of Communication Accounts,Kolkota",Telecommunications
+322,6239,"Office of Sr. DDG LSA,Gujarat",Telecommunications
+323,6240,"BSNL,Jharkhand",Telecommunications
+324,6241,"O/o The Controller Of Communication Accounts,Dehradun",Telecommunications
+325,6242,"O/o The Controller Of Communication Accounts,Ranchi",Telecommunications
+326,6243,"Telecom Enforcement Resource And Monitoring (TERM) Cell,Ranchi",Telecommunications
+327,6244,"O/o Controller Of Communication Accounts,West Bengal and Sikkim Circle",Telecommunications
+328,6245,"O/o DDG(State Coordination),Uttarakhand",Telecommunications
+329,6246,"Office of Advisor,Tamil Nadu Licensed Service Area",Telecommunications
+330,6247,"NTIPRIT,Ghaziabad",Telecommunications
+331,6301,D/o. Posts,Posts
+332,6302,Dte. of Postal Life Insurance,Posts
+333,6303,"Asstt.Director, CPMG, Delhi Circle",Posts
+334,6304,"Postal Staff College, Ghaziabad",Posts
+335,6305,"Business Development & Mktg. Dte, Dak Bhavan",Posts
+336,6306,"Executive Engineer, Postal Division,Shimla",Posts
+337,6307,"Asstt. Director (Rectt.), Chief Postmaster,Chennai",Posts
+338,6308,"Chief PMG, UP Circle, Lucknow",Posts
+339,6309,"Central Workshops, Postal Machines, Naraina Delhi.",Posts
+340,6310,"SSPO, South East Division New Delhi",Posts
+341,6311,"Executive Engineer, Postal Civil Division, Ambala",Posts
+342,6312,"Executive Engineer, Postal Civil Division, Kolkata",Posts
+343,6313,"CPMG, Assam Circle Guwahati",Posts
+344,6314,"Asst.Director, CPMG, Meghdoot Bhavan, Delhi",Posts
+345,6315,"CPMG. AP Circle, Hyderabad",Posts
+346,6316,"CPMG, Orissa Circle",Posts
+347,6317,"PMG, Karnool",Posts
+348,6318,Inter Money Transfer Service,Posts
+349,6319,Internationa Mail Delhi,Posts
+350,6320,"Asstt. Director Mail (MO) CPMG, Meghdoot Bhavan, Delhi",Posts
+351,6321,F.S.D. D/o. Post,Posts
+352,6322,"CPMG, Maharashtra Circle, Mumbai (PLI & Asst. PMG Technology)",Posts
+353,6323,"SSPO South Divn, Delhi",Posts
+354,6324,"PLI Karnataka Circle, Bangalore",Posts
+355,6325,"BD Group,CPMG, Meghdoot Bhavan, Delhi",Posts
+356,6326,CPMG (BDG) Hyderabad,Posts
+357,6327,"CPMG Raj. Circle, Jaipur",Posts
+358,6328,"Chief Postmaster GPO, New Delhi",Posts
+359,6329,Sr. Supdt. Sorting Divn. Delhi,Posts
+360,6330,"BD Divn,CPMG, Maharashtra Circle Mumbai",Posts
+361,6331,"Philately Divn. CPMG, Meghdoot Bhavan, New Delhi",Posts
+362,6332,Dte. Postal Service (HQ & Mails) Mumbai,Posts
+363,6333,"Technology Divn, Dak Bhavan, New Delhi",Posts
+364,6334,"Office of the Senior Manager, Mail Motor Service, Naraina",Posts
+365,6335,"Chief Postmaster General,Jharkhand Circle,Meghdoot Bhawan,Ranchi",Posts
+366,6336,"Chief Postmaster General,Uttarakhand Circle,Dehradun",Posts
+367,6337,"Chief Postmaster General,Bihar Circle,Patna",Posts
+368,6338,"Chief Postmaster General,Jammu",Posts
+369,6339,World Philatelic Exhibition Secretariat,Posts
+370,6340,"Chief Postmaster General,Tamilnadu Circle,Chennai",Posts
+371,6341,"Chief Postmaster General, Punjab Circle",Posts
+372,6342,"Chief Postmaster General,Chhatisgarh circle",Posts
+373,6343,"General Manager(Postal Account and Finance),Kolkata",Posts
+374,6344,"Chief Postmaster General,West Bengal Circle",Posts
+375,6345,"Chief Postmaster General,HP Circle,Shimla",Posts
+376,6346,India Post Payment Bank Ltd.,Posts
+377,6347,Establishment Divison,Posts
+378,6348,"Office of the Chief Postmaster General,M.P. Circle",Posts
+379,6349,"Office of the Chief Postmaster General,Hyderabad,Telangana Circle(Philately)",Posts
+380,6350,"Director Postal Service,Gujarat Circle",Posts
+381,6351,"Office of the Manager, Mail Motor Service,Chandigarh",Posts
+382,7101,M/o. Corporate Affairs,Corporate Affairs
+383,7102,Serious Fraud Investigation Office,Corporate Affairs
+384,7103,Registrar of Companies,Corporate Affairs
+385,7104,"Official Liquidator, Delhi",Corporate Affairs
+386,7105,"Official Liquidator, Chandigarh",Corporate Affairs
+387,7106,"Official Liquidator, Bangalore",Corporate Affairs
+388,7107,"The Institute of Cost and Works Accountants of India (ICWAI), New Delhi",Corporate Affairs
+389,7108,The Institute Of Chartered Accountants Of India (ICAI),Corporate Affairs
+390,7109,"Company Law Board, New Delhi",Corporate Affairs
+391,7110,Investor Education And Protection Fund (IEPF),Corporate Affairs
+392,7111,"Official Liquidator, Shillong",Corporate Affairs
+393,7112,Competition Commission Of India (CCI),Corporate Affairs
+394,7113,The Institute Of Company Secretaries Of India,Corporate Affairs
+395,7114,"O/O Regional Director, North-East Region",Corporate Affairs
+396,7115,"Official Liquidator, Jaipur",Corporate Affairs
+397,7116,Western India Regional Council of ICAI,Corporate Affairs
+398,7117,Southern India Regional Council of ICAI,Corporate Affairs
+399,7118,National Company Law Tribunal,Corporate Affairs
+400,7119,National Company Law Appellate Tribunal(NCLAT),Corporate Affairs
+401,7120,Indian Instt. Of Corporate Affairs(IICA),Corporate Affairs
+402,7121,Insolvency and Bankruptcy Board of India,Corporate Affairs
+403,7122,National Financial Reporting Authority NFRA,Corporate Affairs
+404,8101,D/o. Consumer Affairs,"Consumer Affairs, Food & Public Distribution"
+405,8102,"National Test House, Kolkata","Consumer Affairs, Food & Public Distribution"
+406,8103,"BUREAU OF INDIAN STANDARDS(BIS), Delhi","Consumer Affairs, Food & Public Distribution"
+407,8104,"BUREAU OF INDIAN STANDARDS(BIS), Chennai","Consumer Affairs, Food & Public Distribution"
+408,8105,"BUREAU OF INDIAN STANDARDS(BIS), Patna","Consumer Affairs, Food & Public Distribution"
+409,8106,"BUREAU OF INDIAN STANDARDS(BIS),Bhubaneshwar","Consumer Affairs, Food & Public Distribution"
+410,8107,"BUREAU OF INDIAN STANDARDS(BIS), MUMBAI","Consumer Affairs, Food & Public Distribution"
+411,8108,"Food Corporation of India, Sri Ganganagar","Consumer Affairs, Food & Public Distribution"
+412,8109,Warehousing Development Abd Regulatory Authority,"Consumer Affairs, Food & Public Distribution"
+413,8110,"Food Corporation of India,Regional Office,Assam","Consumer Affairs, Food & Public Distribution"
+414,8111,"Food Corporation of India Hqrs,New Delhi","Consumer Affairs, Food & Public Distribution"
+415,8112,"Bureau of Indian Standards,Raipur","Consumer Affairs, Food & Public Distribution"
+416,8201,D/o. Food & Public Distribution,"Consumer Affairs, Food & Public Distribution"
+417,8202,"National Sugar Instt., Kanpur","Consumer Affairs, Food & Public Distribution"
+418,9101,M/o. Culture,Culture
+419,9102,Archeological Survey of India,Culture
+420,9103,"Instt. of History of Art, Delhi",Culture
+421,9104,"Sahitya Academy, Delhi",Culture
+422,9105,"Lalit KalaAcademy, Delhi",Culture
+423,9106,"National Mission for Manuscripts, Delhi",Culture
+424,9107,"National Library, Delhi",Culture
+425,9108,"National Archives of India, Delhi",Culture
+426,9109,"National Museum, Delhi",Culture
+427,9110,"National Gallery of Modern Arts, Delhi",Culture
+428,9111,"Delhi Public Liberary, Delhi",Culture
+429,9112,Anthropological Survey of India,Culture
+430,9113,National Research Laboratory for Conservation of Cultural  Propery,Culture
+431,9114,"SANGEET NATAK ACADEMI, NEW DELHI",Culture
+432,9117,"Central Secretariat Library, Shastri Bhawan, New Delhi",Culture
+433,9118,"INDIRA GANDHI NATIONAL CENTRE FOR THE ARTS, NEW DELHI",Culture
+434,9119,"Gandhi Smriti and Darshan Samiti, New Delhi",Culture
+435,9120,"Raja Mammohun Roy Library Foundation, Kolkata",Culture
+436,9121,"Indian Museum, Kolkata",Culture
+437,9122,"National Library, Kolkata",Culture
+438,9123,"Maulana Abul Kalam Azad Institute of Asian Studies, Kolkata",Culture
+439,9124,NAVA NALANDA MAHAVIHARA,Culture
+440,9125,"National Monument Authority, New Delhi",Culture
+441,9126,"Victora Memorial Hall,Kolkata",Culture
+442,9127,Centre for Cultural Resources and Training,Culture
+443,9128,"Archeological Survey of India,Vadodara Circle",Culture
+444,9129,"Kalakshetra Foundation, Chennai",Culture
+445,9130,National School of Drama,Culture
+446,9131,"North Central Zone Cultural Centre,Allahabad",Culture
+447,9132,"South Central Zone Cultural Centre,Thanjavur",Culture
+448,9133,National Council of Science Museums(NCSM),Culture
+449,9134,"National Science Centre,Delhi",Culture
+450,9135,"Nehru Science Centre, Mumbai",Culture
+451,9136,"Khuda Bakhsh Oriental Public Library,Patna",Culture
+452,9137,"National Culture Fund(NCF),Delhi",Culture
+453,9138,"South Central Zone Cultural Centre,Nagpur",Culture
+454,9139,"National Museum Institute, Delhi",Culture
+455,9140,"Central Institute of Himalayan Culture Studies (CIHCS),Dahung",Culture
+456,9141,Kathak Kendra,Culture
+457,9142,The Nehru Memorial Museum and Library,Culture
+458,10101,D/o. Defence/Integrated Defence Headquarters,Defence
+459,10102,Military Engineering Service,Defence
+460,10103,"DG, EME",Defence
+461,10104,"DG, AFMS",Defence
+462,10105,DG Military Farms,Defence
+463,10106,DG Defence Estates,Defence
+464,10107,JS (Trg) & CAO,Defence
+465,10108,Directorate of Public Relations,Defence
+466,10109,Army Purchase Organisation,Defence
+467,10110,"DG,NCC",Defence
+468,10111,"Defence Services Staff College, Tamil Nadu",Defence
+469,10112,"National Defence Academy, Pune",Defence
+470,10113,Institute of Defence Studies & Analysis,Defence
+471,10114,Army Postal Service,Defence
+472,10115,DIPAC,Defence
+473,10116,Military Training,Defence
+474,10117,Sectt. Board of Canteen Services,Defence
+475,10118,"ASC Centre  & College, Bangalore",Defence
+476,10119,Coast Guard,Defence
+477,10120,Territorial Army,Defence
+478,10121,Dte. of Military Regulations & Forms,Defence
+479,10122,Services Sports Control Board,Defence
+480,10123,"General Staff Br, Hqrt, Armed Corps Centre And School, Ahmadnagar",Defence
+481,10124,Rashtrapati Ke Angrakshak,Defence
+482,10125,Ministry of Defence (Civil),Defence
+483,10126,"The Kumaon Regimental Centre, Ranikhet",Defence
+484,10127,"ADGPI,Indian Army",Defence
+485,10128,"Army Sports Institute, Pune",Defence
+486,10129,"Hindustan Aeronautical Limited, New Delhi",Defence
+487,10130,Natioanal Defence College - New Delhi,Defence
+488,10131,HQ Integrated Defence Staff,Defence
+489,10132,HQ Andman And Nicobar Command (ANC),Defence
+490,10133,Startegic Forces Command (SFC),Defence
+491,10134,Additional Directorate general Of Signal Intelligence,Defence
+492,10135,College Of Defence Management (CDM),Defence
+493,10136,"Army Hospital (Research And Referral),New Delhi",Defence
+494,10137,ADG Admin And Coord,Defence
+495,10138,Directorate general Of Signals(Sig-2) ,Defence
+496,10139,Centre for Land Warfare Studies (CLAWS),Defence
+497,10140,Army Airborne Training School (AATS),Defence
+498,10141,6th Battalion-The Parachute Regiment,Defence
+499,10142,"Military Farms Branch,Central Command",Defence
+500,10143,"Defence Estates Office,Jammu",Defence
+501,10144,"Defence Estates Office,Chandigarh",Defence
+502,10145,Ministry of Defence(sectt.),Defence
+503,10146,"Armed Forces Tribunal,Principal Bench",Defence
+504,10147,Coast Guard PRO,Defence
+505,10148,National Institute for R&D in Defence Shipbuilding(NIRDESH),Defence
+506,10149,"DG,Medical Service(Army)",Defence
+507,10150,"Armed Forces Medical Depot,New Delhi",Defence
+508,10151,"The Jat Regiment Centre,Bareilly",Defence
+509,10152,"Headquarters The Infantry School,Mhow",Defence
+510,10153,"The Madras Regimental Centre,Wellington",Defence
+511,10201,Deptt. of Defence Production & Supply/Ordnance Factories Board (OFB),Defence
+512,10202,"DG, Ordnance Services",Defence
+513,10203,DG QA,Defence
+514,10204,DG AQA,Defence
+515,10205,Defence Exhibition Organisation,Defence
+516,10206,Mazagaon Docks Limited,Defence
+517,10207,"MIDHANI, Hyderabad",Defence
+518,10208,"GS(System), Western Command",Defence
+519,10209,"Nehru Institute Of Mountaineering,Uttarkashi",Defence
+520,10301,Deptt. of  Defence Research & Development/DRDO,Defence
+521,10302,"Society for Integrated Circuit Technology & Applied Research, Bangalore.",Defence
+522,10303,"Gallium Arsenide Technology Centre, Hyderabad",Defence
+523,10401,"Deptt. of Ex-servicemen Welfare (DG, Resettlement)",Defence
+524,10402,ECHS,Defence
+525,10403,Ceremonial & Welfare Dte.,Defence
+526,10404,"Army Central Welfare Fund, New Delhi",Defence
+527,10405,"Kendriya Sainik Board (DGR), Delhi Hq.",Defence
+528,10406,"Finance Services,D/O, Ex Servicemen Welfare",Defence
+529,10501,Deptt. of Defence Finance (CGDA),Defence
+530,10502,"The Principal CDA (Pension), Allahabad",Defence
+531,10503,Weapons And Electronic System Engineering Establishment(WESEE),Defence
+532,10601,Army (Rectt),Defence
+533,10602,"DG, Supplies & Transport",Defence
+534,10603,Northern Command,Defence
+535,10604,Western Command,Defence
+536,10605,Eastern Command,Defence
+537,10606,Central Command - ST Branch,Defence
+538,10607,Southern Command,Defence
+539,10608,South West Command,Defence
+540,10609,Station HQs Field Firing Ranges,Defence
+541,10610,"ADG, Movement",Defence
+542,10611,"DG, MAP",Defence
+543,10612,"School of Artillery, Devlali",Defence
+544,10613,Station HQ Delhi Cantt,Defence
+545,10614,"Army HQ, QMG Branch",Defence
+546,10615,"Army HQ, GS Branch",Defence
+547,10616,"Military College of Telecommunication Engineering, Mhow",Defence
+548,10617,Army Group Insurance Fund,Defence
+549,10618,Armoured Corps Centre and School,Defence
+550,10619,South Western Command (MIS),Defence
+551,10620,"Dte Gen of Army Air Defence,IHQ (Army)",Defence
+552,10621,Army DGR Recruitment,Defence
+553,10622,MOD-Cheque,Defence
+554,10623,"Bengal Engineer GP & Center, Roorkee",Defence
+555,10624,"ddgit, IHQ",Defence
+556,10625,HQ Chhattisgarh and Odisha Sub Area,Defence
+557,10626,1 Signal Training Centre(1 STC),Defence
+558,10627,Officers Training Academy(OTA),Defence
+559,10628,Indian Military Academy (IMA),Defence
+560,10629,"College of Military Engineering,Pune",Defence
+561,10630,"Selection Centre Central,Sultania Infantry Lines,Bhopal",Defence
+562,10631,"HQ Army Training Command,Shimla",Defence
+563,10701,Indian Navy (Rectt.),Defence
+564,10702,Indian Navy (CL),Defence
+565,10703,India Naval Fleet,Defence
+566,10801,Indian Air Force(Rectt.),Defence
+567,10802,Indian Air Force (CL),Defence
+568,10803,"Central Airmen Selection Board(CASB),New Delhi",Defence
+569,10901,Border Roads Organisation,Defence
+570,11101,Ministry of DONER,DONER
+571,11102,"North Eastern Council, Shillong",DONER
+572,11103,"North Eastern Regional Institute Of Water And Land management (NERIWALM),Tezpur",DONER
+573,11104,"North Eastern Council,Shillong",DONER
+574,11105,NERAMAC Ltd.,DONER
+575,12101,Ministry of Earth Sciences,Earth Sciences
+576,12102,Indian Meteorological Department,Earth Sciences
+577,12103,"National Centre for Antarctic and Ocean Research, Goa",Earth Sciences
+578,12104,"Indian National Centre for Ocean Information Services, Hyderabad",Earth Sciences
+579,12105,"Indian Institute of Tropical Meteorology, Pune",Earth Sciences
+580,12106,"National Institute of Ocean Technology, Chennai",Earth Sciences
+581,12107,"Natioanl Centre for Medium Range Weather Forecasting,Noida",Earth Sciences
+582,12108,National Centre for Earth Science Studies(NCESS),Earth Sciences
+583,12109,"National Centre for Seismology,New Delhi",Earth Sciences
+584,12110,"Centre For Marine Living Resources & Ecology (CMLRE),Kochi",Earth Sciences
+585,13101,Ministry of Environment & Forests,Environment & Forest
+586,13102,"Animal Welfare Division, M/o Environment & Forests",Environment & Forest
+587,13103,"Animal Welfare Board of India, Chennai",Environment & Forest
+588,13104,National Environment Afforestation Development Board,Environment & Forest
+589,13105,Zoological Survey of India,Environment & Forest
+590,13106,"Central Zoo Authority, Delhi",Environment & Forest
+591,13107,Botanical Survey of India,Environment & Forest
+592,13108,"National Zoological Park,Delhi",Environment & Forest
+593,13109,"National Museum of Natural History, Delhi",Environment & Forest
+594,13110,"Dte. of Forest Education, Dehradun",Environment & Forest
+595,13111,National River Conservation  Directorate,Environment & Forest
+596,13112,Forest Survey of India,Environment & Forest
+597,13113,Central Pollution Control Board,Environment & Forest
+598,13114,"National Institute of Forest Management, Bhopal",Environment & Forest
+599,13115,"GBP Instt. of Himalayan, Almora",Environment & Forest
+600,13116,"Indira Gandhi National Forest Academy, Dehradun",Environment & Forest
+601,13117,"Indian Council of Forestry Research & Education, Dehradun",Environment & Forest
+602,13118,Instt. of Wood Science & Technology,Environment & Forest
+603,13119,Indian Plywood Industries Research & Training Institute Bangalore,Environment & Forest
+604,13120,"Civil Construction Unit(Delhi), M/o Environment & Forest",Environment & Forest
+605,13121,"Civil Construction Unit(Hyderabad), M/o Environment & Forest",Environment & Forest
+606,13122,"Civil Construction Unit(Bhubaneswar), M/o Environment & Forest",Environment & Forest
+607,13123,"State Forest Service College, Coimbatore",Environment & Forest
+608,13124,National Mission For Clean Ganaga (NMCG),Environment & Forest
+609,13125,Wildlife Crime Control Bureau,Environment & Forest
+610,13126,Society of Integrated Coastal Management (SICOM),Environment & Forest
+611,13127,Committee for the Purpose of Control and Supervision of Experiments on Animals(CPCSEA),Environment & Forest
+612,13128,"National Institute of Animal Welfare(NIAW),Faridabad",Environment & Forest
+613,13129,"National Institute of Animal Welfare(NIAW),New Delhi",Environment & Forest
+614,13130,"M/o Environment Forest & Climate Chnage,Regional Office (Southern Zone),Bangalore",Environment & Forest
+615,14101,ITP Division,External Affairs
+616,14102,PROP,External Affairs
+617,14103,ADMIN,External Affairs
+618,14104,Q/SE (iii),External Affairs
+619,14105,Q/CAD,External Affairs
+620,14106,"CPV Division, Ministry of External Affairs",External Affairs
+621,14107,Maldives Division,External Affairs
+622,14108,Kailash Mansarovar Yatra,External Affairs
+623,14109,P&E,External Affairs
+624,14110,XP Division,External Affairs
+625,14111,PB-II,External Affairs
+626,14112,Haj Committee,External Affairs
+627,14113,SE-II,External Affairs
+628,14114,MEA (FSP),External Affairs
+629,14115,"Passport Office, Min. of External Affairs, Trivandrum",External Affairs
+630,14116,"Research and Information System for Developing Countries (RIS), New Delhi",External Affairs
+631,14117,Indian Council Of World Affairs,External Affairs
+632,14118,M UD&PA - DIRECTORATE OF ESTATE,External Affairs
+633,14119,Nalanda University,External Affairs
+634,14120,"Foreign Service Institute, New Delhi",External Affairs
+635,14121,Bangladesh Myanmar (BM) Divison,External Affairs
+636,14122,Regional Passport office(RPO) Goa,External Affairs
+637,14123,Indian Council for Cultural Relations,External Affairs
+638,15101,Deptt. of Expenditure,Finance
+639,15102,Pension Fund Regulatory & Development Authority,Finance
+640,15103,"Accountant General, Delhi",Finance
+641,15104,"Accountant General, Bangalore",Finance
+642,15105,"Accountant General, Shimla",Finance
+643,15106,"Accountant General, Chandigarh",Finance
+644,15107,"Accountant General (Civil Audit),Bhubaneswar",Finance
+645,15108,"Principal Accountant General,CHENNAI",Finance
+646,15109,"Indian Audit And Accounts Department, West Begal",Finance
+647,15110,"Accountant General,Jharkhand",Finance
+648,15111,Central Pension Accounting Office New Delhi,Finance
+649,15112,National Pension System Trust(NPS Trust),Finance
+650,15113,Atal Pension Yojana (APY),Finance
+651,15114,Public Financial Management System(PFMS),Finance
+652,15115,"Arun Jaitley National Institute of Financial Management,Faridabad",Finance
+653,15201,Economic Affairs,Finance
+654,15202,Industrial Finance Corporation Of India New Delhi,Finance
+655,15203,"National Instt. of Finance Management, Faridabad",Finance
+656,15204,Securities and Exchange Board of India,Finance
+657,15205,Currency Press Nasik,Finance
+658,15206,"Bank Note Press, Dewas",Finance
+659,15207,India Security Press Nasik,Finance
+660,15208,"India Security Press, Hyderabad",Finance
+661,15209,"Security Paper Mill, Hoshangabad",Finance
+662,15210,"India Govt. Mint, Mumbai",Finance
+663,15211,"India Govt. Mint, Noida",Finance
+664,15212,"India Govt. Mint, Kolkata",Finance
+665,15213,"India Govt. Mint, Hyderabad",Finance
+666,15214,BIFR,Finance
+667,15215,National Savings Organisation,Finance
+668,15216,Currency and Coinage Division,Finance
+669,15217,O/o. The Custodian,Finance
+670,15218,"Economic Debt Recovery Tribunal, Vishakhapatnam",Finance
+671,15219,Appellate Tribunal for Forfieted Property,Finance
+672,15220,Insurance Regulatory And Development Authority (IRDA),Finance
+673,15221,Mumbai Debts Recovery Tribunal,Finance
+674,15222,NSDC National Skill Development Corporation,Finance
+675,15223,"General Insurance Council,Mumbai",Finance
+676,15224,"Debts Recovery Tribunal, Hyderabad",Finance
+677,15225,"Debts Recovery Tribunal, Pune",Finance
+678,15226,"Debts Recovery Tribunal-2, Ernakulam",Finance
+679,15227,"Office of the Executive Council of Insurers,Mumbai",Finance
+680,15228,"International Financial Services Centres Authority(IFSCA),Gandhinagar",Finance
+681,15301,Deptt. of Revenue,Finance
+682,15302,"SAFEMA, Mumbai",Finance
+683,15303,"Central Economic Intelligence Bureau, Delhi",Finance
+684,15304,"Enforcement Dte., Delhi",Finance
+685,15305,"National Institute Of Public Finance & Policy, Delhi",Finance
+686,15306,"Directorate General of Central Excise Intelligence, Guwahati Regional Unit",Finance
+687,15307,"Enforcement Dte., Mumbai",Finance
+688,15308,"Customs,Central Excise & Service Tax Settlement Commission,Kolkata",Finance
+689,15309,"O/o The Tax Recovery Officer,Gurugram",Finance
+690,15310,"Directorate of Income Tax(Risk Assessment),CBDT,New Delhi",Finance
+691,15311,"O/o The Tax Recovery Officer,Panchkula",Finance
+692,15312,Tax Policy Research Unit,Finance
+693,15313,"Office of the Commissioner of Customs(Preventive), Jamnagar",Finance
+694,15314,"Financial Intelligence Unit-India(FIU-IND), New Delhi",Finance
+695,15401,"Income Tax (PR & RSP), Delhi.",Finance
+696,15402,"Dte. of Income Tax, Delhi",Finance
+697,15403,Commissioner of Income Tax Delhi,Finance
+698,15404,"IT Settlement Commission, Delhi",Finance
+699,15405,Dte. of Revenue Intelligence Delhi,Finance
+700,15406,Commissioner of Income Tax (Computer Operation),Finance
+701,15407,IT Appellate Tribunal Mumbai,Finance
+702,15408,"IT Settlement Commission, Kolkata",Finance
+703,15409,"National Academy of Direct Taxes, Nagpur",Finance
+704,15410,Directorate Of Income Tax (Systems),Finance
+705,15411,"Chief Commissioner of Income Tax, Ghaziabad",Finance
+706,15412,"Commissioner of Income Tax, Nagpur",Finance
+707,15413,"Commissioner of Income Tax, Kolkata",Finance
+708,15414,Authority for Advance Ruling,Finance
+709,15415,Department of Financial Service-Banking Division,Finance
+710,15416,"Commissioner of Income Tax, Panaji",Finance
+711,15417,"Office Of The Income Tax Officer,Ward 49(3) Delhi",Finance
+712,15418,"Commissioner of Income Tax,Noida",Finance
+713,15419,Dte. of Revenue Intelligence Mumbai,Finance
+714,15420,Intelligence And Criminal Investigation,Finance
+715,15421,"Principal Cheif Commissioner Of Income-Tax, Karnatka-Goa Region",Finance
+716,15422,"Principal Cheif Commissioner Of Income-Tax, AP AND Telangana",Finance
+717,15423,"National Credit guarantee Trustee Company ltd.(NCGTC),Mumbai",Finance
+718,15424,"DDO,CIT (TDS)-2,New Delhi",Finance
+719,15425,Central Registry of Securitisation Asset Reconstruction and Security Interest of India,Finance
+720,15426,Office of the Tax Recovery Officer - Asansol,Finance
+721,15427,"Office of the Tax Recovery Officer, Pr. CIT-15,Delhi",Finance
+722,15428,"Office of the Tax Recovery Officer, Pr. CIT-20,Delhi",Finance
+723,15501,Central Board of Excise & Customs,Finance
+724,15502,PR Customs & Central Excise,Finance
+725,15503,"Commissioner of Central Excise, Delhi",Finance
+726,15504,"Dy. Commissioner  Service Tax, Delhi",Finance
+727,15505,Collector Customs IGI Airport Delhi,Finance
+728,15506,"Commissioner of Customs, Delhi",Finance
+729,15507,"Dte. General of Systems & Data Management, Customs & Central Excise",Finance
+730,15508,Customs & Gold Control Appellate Tribunal,Finance
+731,15509,"Custom, Central Excise & Service Tax Appellate Tribunal, Delhi",Finance
+732,15510,DG Inspection Customs and Central Excise Delhi,Finance
+733,15511,DG Central Excise Intelligence,Finance
+734,15512,"Dte. of Logistics, Customs & Central Excise",Finance
+735,15513,Customs & Central Excise Bangalore,Finance
+736,15514,Customs Mangalore,Finance
+737,15515,"Customs House, Kolkata",Finance
+738,15516,"Customs & Excise, Ghaziabad",Finance
+739,15517,"DC Customs, Ahmedabad",Finance
+740,15518,"Commissioner of Customs, Panaji",Finance
+741,15519,"Dy. Commissioner Customs, Faridabad",Finance
+742,15520,"Dy. Commisioner Customs, Tiruchirapalli",Finance
+743,15521,"Commissioner, Central Excise, Jaipur",Finance
+744,15522,"Commissioner of Central Excise, Rohtak",Finance
+745,15523,"Commissioner of Customs, Chennai Airport",Finance
+746,15524,"Commissioner of Customs & Central Excise, Hyderabad",Finance
+747,15525,Dte. of Preventive Operations,Finance
+748,15526,"National Academy of Customs, Excise & Narcotics, Faridabad/Delhi.",Finance
+749,15527,"Commissioner of Customs, Cerntral Excise and Service Tax, Belgaum",Finance
+750,15528,"Central Excise and Service Tax, Guwahati",Finance
+751,15529,"Commissioner of Central Excise,Pune",Finance
+752,15530,"OFFICE OF THE COMMISSIONER OF CUSTOMS, CENTRAL EXCISE & SERVICE TAX - AURANGABAD",Finance
+753,15531,"Central Excise Commissionerate,Chandigarh",Finance
+754,15532,"Office Of The Commissioner Of Central Excise,Preventive Wing II,Belgaum",Finance
+755,15533,The New India Assurance Company Ltd. Delhi Regional Office-I,Finance
+756,15534,"Asst. Commissioner Customs,Central Excise & Service Tax,Devas Tax,Devas",Finance
+757,15535,"Commissioner Customs,Central Excise & Service Tax,Ujjain",Finance
+758,15536,Principal Commissioner of Customs(Export) Inland Container Depot,Finance
+759,15537,"O/o Principal Commissioner of Customs,Commissionerate-III,Chennai",Finance
+760,15538,"Office Of The Commissioner Of Central Tax GST Central Excise,G. Noida",Finance
+761,15539,"Office Of The Commissioner Of Central Tax,Delhi West",Finance
+762,15540,Principal Commissioner of Customs(Import) Inland Container Depot,Finance
+763,15601,D/o. Disinvestment,Finance
+764,16101,Ministry of Food Processing Industries,Food Processing Industries
+765,16102,"NIFTEM, Haryana",Food Processing Industries
+766,16103,"Indian Institute of Food Processing Technology (IIFPT),Thanjavur",Food Processing Industries
+767,17101,D/o. Health & FamilyWelfare,Health & Family Welfare
+768,17102,Health & Family Welfare (IEC),Health & Family Welfare
+769,17103,National Vector Borne Disease Control Programme,Health & Family Welfare
+770,17104,NACO(AIDS),Health & Family Welfare
+771,17105,NACO(Blood Donation),Health & Family Welfare
+772,17106,Deptt. of Health (DMS/PFA),Health & Family Welfare
+773,17107,Deptt. of Health (Estt.I),Health & Family Welfare
+774,17108,Deptt. of Heath (Estt.III),Health & Family Welfare
+775,17109,Medical Council of India,Health & Family Welfare
+776,17110,Dental Council of India,Health & Family Welfare
+777,17111,Indian Nursing Council,Health & Family Welfare
+778,17112,AIIMS,Health & Family Welfare
+779,17113,"SGPGI, Lucknow",Health & Family Welfare
+780,17114,"National Instt. of Biologicals, Noida",Health & Family Welfare
+781,17115,Instt. of Microtechnologies Chandigarh,Health & Family Welfare
+782,17116,"Bharat Immunobilogicals & Biological, Bulandshahar",Health & Family Welfare
+783,17117,Malaria Research Centre Delhi,Health & Family Welfare
+784,17118,National Trust for Autism,Health & Family Welfare
+785,17119,"NEIGI, Instt. Shillong",Health & Family Welfare
+786,17120,National Instt. of Cholera,Health & Family Welfare
+787,17121,International Instt. of Population Science,Health & Family Welfare
+788,17122,RPM Instt. Patna,Health & Family Welfare
+789,17123,LRS Instt. of TB Delhi,Health & Family Welfare
+790,17124,National Plasma Fraction Centre,Health & Family Welfare
+791,17125,National Instt.of Virology,Health & Family Welfare
+792,17126,"ICMR Virus Unit, Kolkata",Health & Family Welfare
+793,17127,National Aids Instt. Pune,Health & Family Welfare
+794,17128,Cancer Division,Health & Family Welfare
+795,17129,National Instt. of Communicable Diseases,Health & Family Welfare
+796,17130,"JIPMER, Pondicherry",Health & Family Welfare
+797,17131,"Instt. of Hygiene, Kolkata",Health & Family Welfare
+798,17132,Central Research Instt. Kasauli,Health & Family Welfare
+799,17133,"RSTC, Najafgarh",Health & Family Welfare
+800,17134,"All India Instt. of PMR, Mumbai",Health & Family Welfare
+801,17135,DGHS Headquarter,Health & Family Welfare
+802,17136,DGHS (Leprosy),Health & Family Welfare
+803,17137,DGHS (TB Division),Health & Family Welfare
+804,17138,"DGHS, Opthalmo",Health & Family Welfare
+805,17139,CGHS Headquarter,Health & Family Welfare
+806,17140,"CGHS, Ayurved",Health & Family Welfare
+807,17141,"Central Health Education Bureau, Delhi",Health & Family Welfare
+808,17142,"Govt. Medical Stores Depot., Delhi",Health & Family Welfare
+809,17143,"Govt. Medical Stores Depot, Chennai",Health & Family Welfare
+810,17144,"Govt. Medical Stores Depot, Kolkata",Health & Family Welfare
+811,17145,Safdarjung Hospital,Health & Family Welfare
+812,17146,Kalavati Hospital,Health & Family Welfare
+813,17147,Ram Monohar Lohia Hospital,Health & Family Welfare
+814,17148,Lady Harding Medical College,Health & Family Welfare
+815,17149,RAK College of Nursing,Health & Family Welfare
+816,17150,Lady Reading Health School,Health & Family Welfare
+817,17151,"Indian Medicine Pharmaceutical Corpn. Ltd, Almora",Health & Family Welfare
+818,17152,"INDIAN COUNCIL OF MEDICAL RESEARCH (ICMR), NEW DELHI",Health & Family Welfare
+819,17153,"NATIONAL INSTITUTE OF HEALTH AND FAMILY WELFARE, MUNIRKA, NEW DELHI",Health & Family Welfare
+820,17154,"General Section, Ministry of Health and Family Welfare",Health & Family Welfare
+821,17155,"Central Institute of Psychiatry, Ranchi",Health & Family Welfare
+822,17156,"CGHS, Kanpur",Health & Family Welfare
+823,17157,"Central Indian Pharmacopoeia Laboratory, Ghaziabad",Health & Family Welfare
+824,17158,"Central Leprosy Teaching and Research Institute, Chengalpattu",Health & Family Welfare
+825,17159,"Government Medical Store Depot, Guwahati",Health & Family Welfare
+826,17160,"National Population Stabilisation Fund, New Delhi",Health & Family Welfare
+827,17161,H1N1 Flu Campaign,Health & Family Welfare
+828,17162,National Academy of Medical Sciences,Health & Family Welfare
+829,17163,Food Safety And Standard Authority Of India,Health & Family Welfare
+830,17164,"Port Health Organisation,Kandla Port",Health & Family Welfare
+831,17165,Central Medical Services Society(CMSS),Health & Family Welfare
+832,17166,"Port Health Organisation,Kolkata Port",Health & Family Welfare
+833,17167,"Port Health Organisation,Mumbai Fort",Health & Family Welfare
+834,17168,"Port Health Organisation,Cochin",Health & Family Welfare
+835,17169,"Vallabhbhai Patel Chest Institute,Delhi",Health & Family Welfare
+836,17170,AIIMS BHOPAL,Health & Family Welfare
+837,17171,Natioanl Organ And Tissue Transplant Organistaion (NOTTO),Health & Family Welfare
+838,17172,National Programme for Prevention and Control of Fluorosis (NPPCF),Health & Family Welfare
+839,17173,National Programme for the Health Care of the Elderly,Health & Family Welfare
+840,17174,"Regional Institute of Paramedical and Nursing Sciences, Aizwal",Health & Family Welfare
+841,17175,"Indian Pharmacopoeia Commission, Ghaziabad",Health & Family Welfare
+842,17176,World Oral Health Day (WOHD),Health & Family Welfare
+843,17177,"CGHS,Meerut",Health & Family Welfare
+844,17178,Pasteur Institute of India,Health & Family Welfare
+845,17179,LGB Regional Institute of Mental Health,Health & Family Welfare
+846,17180,Ayushman Bharat Pradhan Mantri Jan Arogya Yojana(PMJAY),Health & Family Welfare
+847,17181,"Post Graduate Institute of Medical Education and Research (PGIMER),RML Hospital",Health & Family Welfare
+848,17182,"AIIMS,Rishikesh",Health & Family Welfare
+849,17183,AIIMS.Deoghar,Health & Family Welfare
+850,17184,"AIIMS,Bathinda",Health & Family Welfare
+851,17185,Indian Red Cross Society,Health & Family Welfare
+852,17186,"All india institute of medical sciences, Bibinagar",Health & Family Welfare
+853,17187,Regional Office for Health and Family Welfare,Health & Family Welfare
+854,17188,"AIIMS,Bilaspur",Health & Family Welfare
+855,17189,"Project Management Unit, AIIMS, New Delhi",Health & Family Welfare
+856,17201,Deptt. of AYUSH (IEC),Ayush
+857,17202,Deptt. of AYUSH (Admn etc.),Ayush
+858,17203,"National Medicinal Plants Board, Delhi",Ayush
+859,17204,Central Council of Indian Medicine,Ayush
+860,17205,Central Council for Yoga & Naturopathy,Ayush
+861,17206,Central Council for Homoeopathy,Ayush
+862,17207,Central Council for Unani,Ayush
+863,17208,Central Council for Ayurveda & Siddha,Ayush
+864,17209,"National Instt. of Homoeopathy, Kolkata",Ayush
+865,17210,"National Intt. of Ayurveda, Jaipur",Ayush
+866,17211,"National Intt. of Naturopaty, Pune",Ayush
+867,17212,Rashtriya Ayurveda Vidyapeeth,Ayush
+868,17213,"Morarji Desai Instt. of Yoga, Delhi",Ayush
+869,17214,Gujarat Ayurvedic Instt. Jamnagar,Ayush
+870,17215,"National Instt. of Siddha, Chennai",Ayush
+871,17216,Central Council for Research In Ayurvedic Sciences,Ayush
+872,17217,North East Institute Of Ayurveda And Homoeopathy (NEAIH),Ayush
+873,17218,"NEIFM, Arunachal Pradesh",Ayush
+874,17219,all India Institute of Ayurveda(AIIA),Ayush
+875,17220,national Research Institute for Sowa-RIGPA,Ayush
+876,17221,CCRH,Ayush
+877,17301,Department of Health Research,Health & Family Welfare
+878,17302,Bhopal Memorial Hospital and Research Centre,Health & Family Welfare
+879,18101,Deptt. of Heavy Industries,Heavy Industries & Public Enterprises
+880,18102,Heavy Engineering Corporation Ltd. Ranchi,Heavy Industries & Public Enterprises
+881,18103,Cement Corporation of India,Heavy Industries & Public Enterprises
+882,18104,Hindustan Copper Limited,Heavy Industries & Public Enterprises
+883,18105,Deptt. of  Public Enterprises,Heavy Industries & Public Enterprises
+884,18106,"Hindustan PREFEB Limited, Jangpura, New Delhi",Heavy Industries & Public Enterprises
+885,18107,"NEPA Limited, Nepanagar",Heavy Industries & Public Enterprises
+886,18108,"Heavy Engineering Corporation Ltd., New Delhi",Heavy Industries & Public Enterprises
+887,18109,"Bharat Bhari Udyog Nigam Limited, Kolkata",Heavy Industries & Public Enterprises
+888,18110,"Bharat Heavy Electricals Limited (BHEL), Ranipet ",Heavy Industries & Public Enterprises
+889,18111,Hindustan Cables Limited,Heavy Industries & Public Enterprises
+890,18112,Hindustan Salts Limited,Heavy Industries & Public Enterprises
+891,18113,Rajasthan Electronics & Instruments Limited,Heavy Industries & Public Enterprises
+892,18114,"Bharat Heavy Electricals Limited (BHEL), New Delhi",Heavy Industries & Public Enterprises
+893,18115,"Central Manufacturing Technology Institute,Bengaluru",Heavy Industries & Public Enterprises
+894,19101,"M/o.  Home Affairs  (JS, Admn., Public etc.)",Home Affairs
+895,19102,"M/o. Home Affairs, Disaster Management Division",Home Affairs
+896,19103,"M/o. Home Affairs, Border Management Division",Home Affairs
+897,19104,"M/o. Home Affairs, Foreigners Division, Jaisalmer House.",Home Affairs
+898,19105,"M/o. Home Affairs, Freedom Fighter Division, Lok Nayak Bhavan",Home Affairs
+899,19106,National Disaster Management Authority,Home Affairs
+900,19107,National Instt. of Disaster Management,Home Affairs
+901,19108,"Registrar General of India(Headquarters), Man Singh Road, New Delhi",Home Affairs
+902,19109,RGI(VS Divn.) & Directors of Census Operations,Home Affairs
+903,19110,Border Security Force,Home Affairs
+904,19111,Central Reserve Police Force,Home Affairs
+905,19112,Indo Tibetan Border Police - Establishment,Home Affairs
+906,19113,"Central Industrial Security Force,Recruitment",Home Affairs
+907,19114,Sashtra Seema Bal-Recruitment,Home Affairs
+908,19115,National Security Guards,Home Affairs
+909,19116,Intelligence Bureau,Home Affairs
+910,19117,Bureau of Police Research & Development,Home Affairs
+911,19118,National Crime Record Bureau,Home Affairs
+912,19119,Dte. of  Forensic Science,Home Affairs
+913,19120,"Central Forensic Science Laboratory, Kolkata",Home Affairs
+914,19121,"Central Forensic Science Laboratory, Hyderabad",Home Affairs
+915,19122,"Central Forensic Science Laboratory, Chandigarh",Home Affairs
+916,19123,"Central Forensic Science Laboratory, Shimla",Home Affairs
+917,19124,Assam Rifles,Home Affairs
+918,19125,National Institute of Criminology & Forensic Science,Home Affairs
+919,19126,Narcotics Control Bureau,Home Affairs
+920,19127,DG Civil Defence,Home Affairs
+921,19128,National Foundation for Communal Harmony,Home Affairs
+922,19129,Director of Coordination (Police Wireless),Home Affairs
+923,19130,"Commission on Centre State Relations, Vigyan Bhawan Ann., New Delhi",Home Affairs
+924,19131,"Central Forensic Science Laboratory, New Delhi",Home Affairs
+925,19132,Dte. Of National Disaster Response Force(NDRF & CD),Home Affairs
+926,19133,"National Investigation Agency, New Delhi",Home Affairs
+927,19134,"Inter-state Council Secretariat, New Delhi",Home Affairs
+928,19135,"National Fire Service College,Nagpur",Home Affairs
+929,19136,DGCD-Fire Project Cell,Home Affairs
+930,19137,New Delhi Municipal Council,Home Affairs
+931,19138,National Intelligence Grid - NATGRID,Home Affairs
+932,19139,Administration-V,Home Affairs
+933,19140,"Central Reserve Police Force,Recruitment",Home Affairs
+934,19141,"Central Industrial Security Force,Advertisement",Home Affairs
+935,19142,Land Ports Authority of India,Home Affairs
+936,19143,Indo Tibetan Border Police - Recruitment,Home Affairs
+937,19144,Sashtra Seema Bal-General Administration,Home Affairs
+938,19145,"Central Forensic Science Laboratory, Bhopal",Home Affairs
+939,19146,"Central Forensic Science Laboratory, Pune",Home Affairs
+940,19147,Lakshadweep Administration,Home Affairs
+941,19201,Deptt. of Official Languages(NP),Home Affairs
+942,19202,Deptt Of Official Language,Home Affairs
+943,20101,Ministry of Housing & Urban Poverty Alleviation,Housing & Urban Poverty Alleviation
+944,20102,HUDCO,Housing & Urban Poverty Alleviation
+945,20103,National Building Organisation,Housing & Urban Poverty Alleviation
+946,20104,Building Materials & Technology Promotion Council,Housing & Urban Poverty Alleviation
+947,20105,Central Govenrment Employees Welfare Housing Organisation (CGEWHO),Housing & Urban Poverty Alleviation
+948,20106,"Delhi Urban Art Commission(DUAC),New Delhi",Housing & Urban Poverty Alleviation
+949,20107,Jal Shakti Abhiyan,Housing & Urban Poverty Alleviation
+950,20108,DAY-National Urban Livelihoods Mission(DAY-NULM),Housing & Urban Poverty Alleviation
+951,21101,Deptt. of School Education & Literacy,Human Resources Development
+952,21102,Dte. of Adult Education,Human Resources Development
+953,21103,National Book Trust,Human Resources Development
+954,21104,N.C.E.R.T,Human Resources Development
+955,21105,National Bal Bhavan,Human Resources Development
+956,21106,"Kendriya Vidyalaya Sangathan, Delhi",Human Resources Development
+957,21107,Central Board of Secondary Education,Human Resources Development
+958,21108,Navodaya Vidyalaya Samiti Delhi,Human Resources Development
+959,21109,"Navodaya Vidyalaya Samiti, Lucknow",Human Resources Development
+960,21110,"Navodaya Vidyalaya Samiti, Pune",Human Resources Development
+961,21111,"Navadaya Vidyalaya Samiti, Shillong",Human Resources Development
+962,21112,"Navodaya  Vidyalay Samiti, Patna",Human Resources Development
+963,21113,"Central Tibbeten School, Delhi",Human Resources Development
+964,21114,"Navodaya Vidyalaya Samiti, Bhopal",Human Resources Development
+965,21115,"Kendriya Vidyalaya Sangathan,Bhopal",Human Resources Development
+966,21116,"Kendriya Vidyalaya Sangathan, Jabalpur",Human Resources Development
+967,21117,"Navodaya Vidyalaya Samiti,Noida",Human Resources Development
+968,21201,Deptt. of Higher Education,Human Resources Development
+969,21202,Indian Council of Philosophical Research,Human Resources Development
+970,21203,Indian Council of Historical Research,Human Resources Development
+971,21204,Indian Council of Social Science Research,Human Resources Development
+972,21205,University Grant Commission,Human Resources Development
+973,21206,"Indian Instt. of IT, Allahabad",Human Resources Development
+974,21207,"Mahatma Gandi Hindi Vishvavidyalaya, Delhi",Human Resources Development
+975,21208,School of Architech & Planning,Human Resources Development
+976,21209,"Regional Instt. of Education, Ajmer",Human Resources Development
+977,21210,"Regional Intt. of Education, Bhubaneswar",Human Resources Development
+978,21211,"Regional Instt. of Education, Bhopal",Human Resources Development
+979,21212,"Rashtriya Sanskrit Sansthan, Delhi",Human Resources Development
+980,21213,"Indian Instt. of Advance Studies, Shimla",Human Resources Development
+981,21214,"NE Hill University, Shillong",Human Resources Development
+982,21215,"Board of Practical Training, Kolkata",Human Resources Development
+983,21216,"Regional Instt. of Education, Mysore",Human Resources Development
+984,21217,"Ambedkar Regional College, Jalandhar",Human Resources Development
+985,21218,Central Instt. of Educational Technology,Human Resources Development
+986,21219,"National Instt. of  Educational Planning, Delhi",Human Resources Development
+987,21220,"National Instt. of Pharmaceutical Education & Reseach, Mohali",Human Resources Development
+988,21221,National Council of Technical Education,Human Resources Development
+989,21222,"Board of Apprentice Trg,, Mumbai",Human Resources Development
+990,21223,IIM Kochi,Human Resources Development
+991,21224,Ambedkar University Lucknow,Human Resources Development
+992,21225,Consortium for Education Communication,Human Resources Development
+993,21226,"Sant Longowal Instt, Sangrur",Human Resources Development
+994,21227,National Foundation for Teachers Welfare,Human Resources Development
+995,21228,NE Regional Instt. Arunachal Pradesh,Human Resources Development
+996,21229,"IIM, Indore",Human Resources Development
+997,21230,Banaras Hindu University,Human Resources Development
+998,21231,Delhi University,Human Resources Development
+999,21232,Pondicherry University,Human Resources Development
+1000,21233,Indira Gandhi Open University,Human Resources Development
+1001,21234,"National Institute Of Technical Teachers Trg. And Research, Chandigarh",Human Resources Development
+1002,21235,National Instt. Of Industrial Engg.,Human Resources Development
+1003,21236,"IIT, Mumbai",Human Resources Development
+1004,21237,"Indian Statistical Instt., Kolkata",Human Resources Development
+1005,21238,Nalanda Mahavidyalaya,Human Resources Development
+1006,21239,Tezpur University,Human Resources Development
+1007,21240,"Assam University, Silchar",Human Resources Development
+1008,21241,"IIT, Kanpur",Human Resources Development
+1009,21242,"Vikas Bharati, Bishunpur",Human Resources Development
+1010,21243,Moti Lal Instt. of Techchnology,Human Resources Development
+1011,21244,Vishva Bharti,Human Resources Development
+1012,21245,National Instt. of Technical Teachers,Human Resources Development
+1013,21246,"Jamia Milia Islamia, Delhi",Human Resources Development
+1014,21247,"National Instt. of Technical Education, Chennai",Human Resources Development
+1015,21248,"Central Instt. of Indian Languages, Mysore",Human Resources Development
+1016,21249,"UGC-DAE Consortium For Scientific Research, New Delhi",Human Resources Development
+1017,21250,Indian School of Mines Dhanbad,Human Resources Development
+1018,21251,"Maulan Azad National Instt. of Technology, Bhopal",Human Resources Development
+1019,21252,"Central Hindi Directorate, Delhi",Human Resources Development
+1020,21253,"IIT, Delhi",Human Resources Development
+1021,21254,"UGC-DAE Consortium for Scientific Research, Mumbai",Human Resources Development
+1022,21255,"IIT, Kharagpur",Human Resources Development
+1023,21256,"Rajiv Gandhi Institute of Management, Shillong",Human Resources Development
+1024,21257,"UGC-DAE Consortium for Scientific Research, Indore",Human Resources Development
+1025,21258,"University Grant Commission, NET, New Delhi",Human Resources Development
+1026,21259,"English and Foreign Languages University, Hyderabad",Human Resources Development
+1027,21260,"National Institute of Technology, Kurukshetra",Human Resources Development
+1028,21261,"INDIAN INSTITUTE OF TECHNOLOGY, HYDERABAD",Human Resources Development
+1029,21262,"National Council for Promotion of Sindhi Language, New Delhi",Human Resources Development
+1030,21263,Indian Institute of Information Technology Design and Manufacturing (IIITD&M),Human Resources Development
+1031,21264,"Indian Institute Of Science (IISc,Banglore)",Human Resources Development
+1032,21265,Jamia Hamdard New Delhi,Human Resources Development
+1033,21266,"All India Council for Technical Education, Chennai",Human Resources Development
+1034,21267,Board Of Apprenticeship Training,Human Resources Development
+1035,21268,Central University Of Bihar,Human Resources Development
+1036,21269,Commission For Scientific And Technical Terminology,Human Resources Development
+1037,21270,"Residential Coaching Academy,Aligarh",Human Resources Development
+1038,21271,Council of Architecture,Human Resources Development
+1039,21272,"Aligarh Muslim University, Aligarh",Human Resources Development
+1040,21273,"Dr. Hari Singh Gaur Vishwa Vidyalaya, Sagar (M.P.)",Human Resources Development
+1041,21274,Indira Gandhi Institute of Development Research(IGIDR) Goregaon(East) Mumbai,Human Resources Development
+1042,21275,"National Institute Of Technology,Delhi",Human Resources Development
+1043,21276,NATIONAL INSTITUTE OF TECHNOLOGY NAGALAND,Human Resources Development
+1044,21277,"National Institute of Technology,Tiruchirappalli",Human Resources Development
+1045,21278,VISVA BHARTI GRANTHANA VIBHAGA,Human Resources Development
+1046,21279,Ghani Khan Choudhury Institute Of Engineering And Tchnlogogy - Malda(WB),Human Resources Development
+1047,21280,The English And Foreign Languages Univeristy - Hyderabad,Human Resources Development
+1048,21281,Inter-University Centre for Astronomy And Astrophysics,Human Resources Development
+1049,21282,"National institute Of Technology, Rourkela",Human Resources Development
+1050,21283,"IIM, Calcutta",Human Resources Development
+1051,21284,Jawaharlal Nehru University,Human Resources Development
+1052,21285,"National Institute of Technology,Puducherry",Human Resources Development
+1053,21286,"Indian Institute Of Science Education And Research (IISR),Pune",Human Resources Development
+1054,21287,"IGNOU, Mumbai",Human Resources Development
+1055,21288,"IGNOU, Jaipur",Human Resources Development
+1056,21289,"IGNOU, Hyderabad",Human Resources Development
+1057,21290,"IGNOU, Chandigarh",Human Resources Development
+1058,21291,"IGNOU, Vishakhapattnam",Human Resources Development
+1059,21292,"IGNOU, Zorhat",Human Resources Development
+1060,21293,"IGNOU, Bhubneshwar",Human Resources Development
+1061,21294,"IGNOU,Lucknow",Human Resources Development
+1062,21295,"IGNOU,Shimla",Human Resources Development
+1063,21296,"IGNOU,Khanna",Human Resources Development
+1064,21297,"IGNOU,Kolkata",Human Resources Development
+1065,21298,"IGNOU,Guwahati",Human Resources Development
+1066,21299,Central University of Tamil Nadu,Human Resources Development
+1067,21301,"IIM,Triuchirappalli",Human Resources Development
+1068,21302,"IGNOU,Siliguri",Human Resources Development
+1069,21303,Central University Of Haryana,Human Resources Development
+1070,21304,"Indian Institute Of Science Education And Research (IISR),Kolkata",Human Resources Development
+1071,21305,"IIT,Jodhpur",Human Resources Development
+1072,21306,"Motilal Nehru National Institute Of Technology, Allahabad",Human Resources Development
+1073,21307,"IIT,Indore",Human Resources Development
+1074,21308,"IGNOU, Vijayawada",Human Resources Development
+1075,21309,"Central Institute Of Technology,Kokrajhar",Human Resources Development
+1076,21310,"National Institute of Technology, Patna",Human Resources Development
+1077,21311,Central University Of Punjab,Human Resources Development
+1078,21312,"Malviya National Institute of Technology, Jaipur",Human Resources Development
+1079,21313,University of Hyderabad,Human Resources Development
+1080,21314,"IIT, Bhubaneswar",Human Resources Development
+1081,21315,National Board Of Accereditation (NBA),Human Resources Development
+1082,21316,Central University Of Rajasthan,Human Resources Development
+1083,21317,"Central University Of Orissa, Koraput",Human Resources Development
+1084,21318,Sikkim University,Human Resources Development
+1085,21319,Avinashilingam Institute For Home Science & Higher Education For Women,Human Resources Development
+1086,21320,"Indian Institute of Engineering Science and Technologuy (IIEST), Shibpur",Human Resources Development
+1087,21321,National Council for Promotion of Urdu Language (NCPUL),Human Resources Development
+1088,21322,EDCIL(INDIA) LIMITED,Human Resources Development
+1089,21323,Tata Institute Of Social Science,Human Resources Development
+1090,21324,National University of Educational Planning and Administration (NUEPA),Human Resources Development
+1091,21325,"National Institute of Technology, Goa",Human Resources Development
+1092,21326,"IIM, Ranchi",Human Resources Development
+1093,21327,"School of Open Learning, Delhi",Human Resources Development
+1094,21328,"Panjab University, Chandigarh",Human Resources Development
+1095,21329,"University of Allahabad, Allahabad",Human Resources Development
+1096,21330,"IIT, Kottayam",Human Resources Development
+1097,21331,Kamala Nehru College,Human Resources Development
+1098,21332,"National Institute of Technology, Hamirpur",Human Resources Development
+1099,21333,Mizoram University,Human Resources Development
+1100,21334,National Council for Teacher Education,Human Resources Development
+1101,21335,"IIM,Raipur",Human Resources Development
+1102,21336,"Mahatma Gandhi Central University, Bihar",Human Resources Development
+1103,21337,"IIT,ROPAR",Human Resources Development
+1104,21338,"IIT,Madras",Human Resources Development
+1105,21339,Central University of Himachal Pradesh,Human Resources Development
+1106,21340,"Maharshi Sandipani Rashtriya Vedavidya Pratishthan,Ujjain",Human Resources Development
+1107,21341,"Indian Institute of Information Technology, Kalyani",Human Resources Development
+1108,21342,"IGNOU,Bangalore",Human Resources Development
+1109,21343,"IIT,Plakkad",Human Resources Development
+1110,21344,"National Institute of Technology,Calicut",Human Resources Development
+1111,21345,"Indira Gandhi National Tribal University,M.P",Human Resources Development
+1112,21346,"Indian Institute of Information Technology,Vadodra",Human Resources Development
+1113,21347,Central University of Kashmir,Human Resources Development
+1114,21348,"IIT,Guwahati",Human Resources Development
+1115,21349,University College of Medical Sciences,Human Resources Development
+1116,21350,"IIT, Tirupati",Human Resources Development
+1117,21351,"Indian Institute of Information Technology(IIIT),Kota",Human Resources Development
+1118,21352,Kirori Mal College,Human Resources Development
+1119,21353,Central University of Kerala,Human Resources Development
+1120,21354,National Testing Agency(NTA),Human Resources Development
+1121,21355,"Indian Institute of Science and Research (IISER),Thiruvanathapuram",Human Resources Development
+1122,21356,"IGNOU Regional Centre,Ranchi",Human Resources Development
+1123,21357,Central University of Gujarat,Human Resources Development
+1124,21358,Central University of Karnataka,Human Resources Development
+1125,21359,"IIM,Visakhapatnam",Human Resources Development
+1126,21360,Central University of Jhatkhand,Human Resources Development
+1127,21361,"Indian Institute of Information Technology(IIIT),Lucknow",Human Resources Development
+1128,21362,"Indian Institute of Information Technology(IIIT),Tiruchirappalli",Human Resources Development
+1129,21363,"Babasaheb Bhimrao Ambedkar University, Lucknow",Human Resources Development
+1130,21364,"National Sanskrit University, Tirupati(Central university)",Human Resources Development
+1131,22101,"IFFI, Dte. of Film Festival (P)",Information & Broadcasting
+1132,22102,Photo Division (P),Information & Broadcasting
+1133,22103,Indian Instt.of Mass Communication (P),Information & Broadcasting
+1134,22104,"FTII, Pune (P)",Information & Broadcasting
+1135,22105,NFDC (P),Information & Broadcasting
+1136,22106,Press Council of India (P),Information & Broadcasting
+1137,22107,SRFTI Kolkata (P),Information & Broadcasting
+1138,22108,"Children Film Society, Mumbai (P)",Information & Broadcasting
+1139,22109,"Principal Accounts Office, Ministry of Information and Broadcasting",Information & Broadcasting
+1140,22110,"Community Radio Station Cell, M/o Information & Broadcasting",Information & Broadcasting
+1141,22111,BHARAT NIRMAN,Information & Broadcasting
+1142,22112,General client Fund,Information & Broadcasting
+1143,22113,Broad Engineers Consultant India Ltd.,Information & Broadcasting
+1144,22114,National Film Archives of India(Cheque),Information & Broadcasting
+1145,22201,I and B Plan Funds(PL),Information & Broadcasting
+1146,22202,I&B Non-Plan Funds(NP),Information & Broadcasting
+1147,22203,I and B Plan (North East)(PL),Information & Broadcasting
+1148,22204,D.A.V.P.(NP),Information & Broadcasting
+1149,22205,Press Information Bureau(NP),Information & Broadcasting
+1150,22206,Dte. of Field Publicity(NP),Information & Broadcasting
+1151,22207,Song & Drama Division(NP),Information & Broadcasting
+1152,22208,"Central Board of Film Certification, Mumbai (NP)",Information & Broadcasting
+1153,22209,Dte. of Film Festival(NP),Information & Broadcasting
+1154,22210,Films Division(NP),Information & Broadcasting
+1155,22211,National Film Archives of India(NP),Information & Broadcasting
+1156,22212,Photo Division(NP),Information & Broadcasting
+1157,22213,Publication Division(NP),Information & Broadcasting
+1158,22214,Registrar Newspapers of India(NP),Information & Broadcasting
+1159,22215,RRT&D(NP),Information & Broadcasting
+1160,22216,I&B Covid Communication Campaign,Information & Broadcasting
+1161,22301,"PB PTI Building, Delhi",Information & Broadcasting
+1162,22401,"AIR, Panaji",Information & Broadcasting
+1163,22402,"AIR, Mysore",Information & Broadcasting
+1164,22403,"AIR, Coimbtore",Information & Broadcasting
+1165,22404,"AIR, Chennai",Information & Broadcasting
+1166,22405,AIR Mumbai,Information & Broadcasting
+1167,22406,"AIR, Indore",Information & Broadcasting
+1168,22407,AIR  Kochi,Information & Broadcasting
+1169,22408,"AIR-CCW, Bangalore",Information & Broadcasting
+1170,22409,AIR  Hyderabad,Information & Broadcasting
+1171,22410,AIR Kolkata,Information & Broadcasting
+1172,22411,"AIR-CCW, Guwahati",Information & Broadcasting
+1173,22412,AIR Gulbarga,Information & Broadcasting
+1174,22413,AIR Bangalore,Information & Broadcasting
+1175,22414,AIR Port Blair,Information & Broadcasting
+1176,22415,AIR Kingsway Camp Delhi,Information & Broadcasting
+1177,22416,AIR Shimla,Information & Broadcasting
+1178,22417,AIR  Varanasi,Information & Broadcasting
+1179,22418,AIR Raipur,Information & Broadcasting
+1180,22419,AIR Tiruchirapally,Information & Broadcasting
+1181,22420,AIR Lucknow,Information & Broadcasting
+1182,22421,AIR Guwahati,Information & Broadcasting
+1183,22422,AIR Ooty,Information & Broadcasting
+1184,22423,AIR Vijayawada,Information & Broadcasting
+1185,22424,AIR Pondicherry,Information & Broadcasting
+1186,22425,AIR CCW Mumbai,Information & Broadcasting
+1187,22426,AIR CCW Siliguri,Information & Broadcasting
+1188,22427,AIR CCW Rajkot,Information & Broadcasting
+1189,22428,AIR CCW Madurai,Information & Broadcasting
+1190,22429,AIR CCW Silchar,Information & Broadcasting
+1191,22430,AIR CCW Kolkata,Information & Broadcasting
+1192,22431,AIR CCW Bhopal,Information & Broadcasting
+1193,22432,AIR CCW Nagpur,Information & Broadcasting
+1194,22433,"AIR CCW Pushpa Bhavan, New Delhi",Information & Broadcasting
+1195,22434,AIR CCW Pune,Information & Broadcasting
+1196,22435,AIR CCW Lucknow,Information & Broadcasting
+1197,22436,AIR CCW Patna,Information & Broadcasting
+1198,22438,AIR CCW Guwahati,Information & Broadcasting
+1199,22439,"AIR CCW Kingsway Camp, Delhi",Information & Broadcasting
+1200,22440,"AIR CCW (CIVIL), Chandigarh",Information & Broadcasting
+1201,22441,AIR CCW Bangalore,Information & Broadcasting
+1202,22442,"AIR CCW (Civil), Chennai",Information & Broadcasting
+1203,22443,AIR CCW Jaipur,Information & Broadcasting
+1204,22444,AIR CCW Itanagar,Information & Broadcasting
+1205,22445,AIR CCW Jammu,Information & Broadcasting
+1206,22446,AIR CCW Soochna Bhawan,Information & Broadcasting
+1207,22447,AIR CCW Sambalpur,Information & Broadcasting
+1208,22448,"AIR, CCW(E), Patna",Information & Broadcasting
+1209,22449,AIR CCW Bhubaneswar,Information & Broadcasting
+1210,22450,"AIR, NEWS SERVICES DIVISION, NEW DELHI",Information & Broadcasting
+1211,22451,"AIR, H.P.T., DELHI",Information & Broadcasting
+1212,22452,"Prasar Bharti, AIR, Administration Section",Information & Broadcasting
+1213,22453,"DG AIR, AIR Resources, New Delhi",Information & Broadcasting
+1214,22454,"Staff Training Institute(Tech.), AIR and Doordarshan, KINGSWAY, DELHI",Information & Broadcasting
+1215,22455,"AIR, HPT, Chinsurah",Information & Broadcasting
+1216,22456,"All India Radio (Programmes), New Delhi",Information & Broadcasting
+1217,22457,"AIR, CCW, Mahadev Road, New Delhi",Information & Broadcasting
+1218,22458,"AIR, CCW (CIVIL), Mumbai",Information & Broadcasting
+1219,22459,"AIR, External Service Division, New Delhi",Information & Broadcasting
+1220,22460,"AIR, Bhopal",Information & Broadcasting
+1221,22461,"AIR, Nizamabad",Information & Broadcasting
+1222,22462,"AIR CCW (ELECT.), Chennai",Information & Broadcasting
+1223,22463,"AIR CCW (Electrical), Chandigarh",Information & Broadcasting
+1224,22464,"AIR (CCW-Civil),Bangalore",Information & Broadcasting
+1225,22465,AIR Imphal,Information & Broadcasting
+1226,22501,DD Purchase Cell Delhi,Information & Broadcasting
+1227,22502,"DD Audience Research Unit, Delhi",Information & Broadcasting
+1228,22503,"DD Admn. Mandi House, Delhi",Information & Broadcasting
+1229,22504,"DD Chief Engineer (NZ), JamNagar House, Delhi",Information & Broadcasting
+1230,22505,"DD Chief Engineer (EZ), Kolkata",Information & Broadcasting
+1231,22506,"DD Chief Engineer (WZ), Mumbai",Information & Broadcasting
+1232,22507,"DD Chief Engineer (SZ), Chennai",Information & Broadcasting
+1233,22508,DDK Jaipur,Information & Broadcasting
+1234,22509,DDK Shillong,Information & Broadcasting
+1235,22510,DDK Bangalore,Information & Broadcasting
+1236,22511,DDK Tura,Information & Broadcasting
+1237,22512,DDK Raipur,Information & Broadcasting
+1238,22513,DDK Jalandhar,Information & Broadcasting
+1239,22514,DDK Lucknow,Information & Broadcasting
+1240,22515,DDK Panaji,Information & Broadcasting
+1241,22516,DDK Kohima,Information & Broadcasting
+1242,22517,DDK Mumbai,Information & Broadcasting
+1243,22518,DDK Kolkata,Information & Broadcasting
+1244,22519,DDK Ahmedabad,Information & Broadcasting
+1245,22520,DDK Jammu,Information & Broadcasting
+1246,22521,DDK Gulbarga,Information & Broadcasting
+1247,22522,DDK Vijayawara,Information & Broadcasting
+1248,22523,DDK Guwahati (NE Programme Production Centre),Information & Broadcasting
+1249,22524,DDK Warangal,Information & Broadcasting
+1250,22525,DDK Silchar,Information & Broadcasting
+1251,22526,DDK Hissar,Information & Broadcasting
+1252,22527,"DDK, Hyderabad",Information & Broadcasting
+1253,22528,"DDK, Gwalior",Information & Broadcasting
+1254,22529,"DDK, Mandi, HP",Information & Broadcasting
+1255,22530,"DDK, New Delhi",Information & Broadcasting
+1256,22531,"DDK, Pune",Information & Broadcasting
+1257,22532,"Doordarshan News, Asiad Village, New Delhi",Information & Broadcasting
+1258,22533,"DD Chief Engineer (NEZ), Guwahati",Information & Broadcasting
+1259,23101,Ministry of Labour & Employment,Labour & Employment
+1260,23102,DG Mine Safety Dhanbad,Labour & Employment
+1261,23103,CTI for Women,Labour & Employment
+1262,23104,DG Employment & Training,Labour & Employment
+1263,23105,Central Employment Exchange,Labour & Employment
+1264,23106,Labour Bureau,Labour & Employment
+1265,23107,"Dte. General Factory Advice, Mumbai",Labour & Employment
+1266,23108,Central Board of Workers Education,Labour & Employment
+1267,23109,Employees Provident Fund Orgn.,Labour & Employment
+1268,23110,Central Provident Fund Commissioner,Labour & Employment
+1269,23111,"E.S.I. Headquarter, New Delhi",Labour & Employment
+1270,23112,"ESI Basai Darapur, Delhi",Labour & Employment
+1271,23113,"ESI Rajendra Place, Delhi",Labour & Employment
+1272,23114,ESI Okhla Delhi,Labour & Employment
+1273,23115,"ESIC Indira Gandhi Hospital,Jhilmil",Labour & Employment
+1274,23116,"ESIC Regional Office,Indore",Labour & Employment
+1275,23117,"ESIC Regional Office,Chennai",Labour & Employment
+1276,23118,ESI Trichur,Labour & Employment
+1277,23119,"Employees State Insurance Corporation,Regional Office Lower Parel,Mumbai",Labour & Employment
+1278,23120,ESI Kolkata,Labour & Employment
+1279,23121,"ESIC Regional Office,Bhubaneswar",Labour & Employment
+1280,23122,"ESIC Regional Office,Bangalore",Labour & Employment
+1281,23123,"ESIC Regional Office,Guwahati",Labour & Employment
+1282,23124,"ESIC Regional Office,Hyderabad",Labour & Employment
+1283,23125,"ESIC Sub Regional Office Bibvewadi,Pune",Labour & Employment
+1284,23126,"ESIC Regional Office,Patna",Labour & Employment
+1285,23127,ESI Cuttack,Labour & Employment
+1286,23128,"ESIC Model Hospital,Noida",Labour & Employment
+1287,23129,"ESIC Regional, Office,Kanpur",Labour & Employment
+1288,23130,ESI Jaipur,Labour & Employment
+1289,23131,"ESIC Regional Office,Faridabad",Labour & Employment
+1290,23132,"ESIC Model Hospital Beltola,Guwahati",Labour & Employment
+1291,23133,ESI Model Hospital Ghaziabad,Labour & Employment
+1292,23134,"MODEL INDUSTRIAL TRAINING INSTITUTE, HALDWANI P O KATHGODAM",Labour & Employment
+1293,23135,"Employees Provident Fund Organisation, Wazirpur Indl. Area, Delhi",Labour & Employment
+1294,23136,"Employees Provident Fund Organisation, Faridabad",Labour & Employment
+1295,23137,"ESI Hospital & Occupational Disease Centre, Kolkata",Labour & Employment
+1296,23138,"Skill Development Initiative Scheme, DG of Employment and Trg.",Labour & Employment
+1297,23139,"V.V. Giri National Labour Institute, NOIDA",Labour & Employment
+1298,23140,"ESIC Hospital,Varanasi",Labour & Employment
+1299,23141,"ESIC Hospital,Gurgaon",Labour & Employment
+1300,23142,"ESIC SRO,Nagpur",Labour & Employment
+1301,23143,"ESIC Regional Office,Ranchi",Labour & Employment
+1302,23144,"ESIC Regional Office,Vijayawada",Labour & Employment
+1303,23145,"ESIC Regional Office,Chandigarh",Labour & Employment
+1304,23146,"ESIC Hospital,Tirunelveli",Labour & Employment
+1305,23147,"ESIC Medical College,Kalaburagi",Labour & Employment
+1306,23148,"ESIC Model Hospital,Ranchi",Labour & Employment
+1307,23149,"ESIC Model Hospital,Phulwarisarif Patna",Labour & Employment
+1308,23150,"ESIC Medical College,PGIMSR & Model Hospital,Bangalore",Labour & Employment
+1309,23151,"ESIC Model Hospital & ODC Andheri(E),Mumbai",Labour & Employment
+1310,23152,"ESIC Hospital,Bibvewadi,Pune",Labour & Employment
+1311,23153,"ESIC Sub Regional Office Bommasandra,Bangalore",Labour & Employment
+1312,23154,"ESIC Hospital Sorojini Nagar,Lucknow",Labour & Employment
+1313,23155,"ESIC Hospital Jajmao,Kanpur",Labour & Employment
+1314,23156,"ESIC Sub Regional Office,Barrackpore",Labour & Employment
+1315,23158,"ESIC Model Hospital,Jaipur",Labour & Employment
+1316,23159,"ESIC Model Hospital,Ludhiana",Labour & Employment
+1317,23160,"ESIC Sub Regional Office,Ambala",Labour & Employment
+1318,23161,"ESIC Model Hospital,Ernakulam",Labour & Employment
+1319,23162,"ESIC Medical College,PGIMSR,Chennai",Labour & Employment
+1320,23163,"ESIC Sub Regional Office,Salem",Labour & Employment
+1321,23164,"ESIC Model Hospital Ramdarbar,Chandigarh",Labour & Employment
+1322,23165,"ESIC Model Hospital,Ankleshwar",Labour & Employment
+1323,23166,"ESIC Hospital,Vapi",Labour & Employment
+1324,23167,"ESIC Model Hospital,Jammu",Labour & Employment
+1325,23168,"ESIC Regional Office,Raipur",Labour & Employment
+1326,23169,"ESIC Model Hospital,Ahmedabad",Labour & Employment
+1327,23170,"ESIC Regional Office Baddi,Himachal Pradesh",Labour & Employment
+1328,23171,"ESIC Sub Regional Office Rohini,New Delhi",Labour & Employment
+1329,23172,"ESIC Regional Office Pennya,Bangalore",Labour & Employment
+1330,23173,"ESIC Sub Regional Office,Tirupati",Labour & Employment
+1331,23174,"ESIC Regional Office,Panji",Labour & Employment
+1332,23175,"ESIC Directorate(Medical) Tilak Vihar,New Delhi",Labour & Employment
+1333,23176,"ESIC Model Hospital Baddi,Himachal Pradesh",Labour & Employment
+1334,23177,"ESIC Sub Regional Office,Mysore",Labour & Employment
+1335,23178,"ESIC Model Hospital & Occupational Disease Centre,Indore",Labour & Employment
+1336,23179,"ESIC Sub Regional Office,Visakhapatnam",Labour & Employment
+1337,23180,"ESIC Model Hospital Manesar,Haryana",Labour & Employment
+1338,23181,"ESIC Hospital Pennya,Bangalore",Labour & Employment
+1339,23182,"Regional Provident Fund Commissioner,Delhi(West)",Labour & Employment
+1340,23183,"Regional Provident Fund Commissioner,Bangalore",Labour & Employment
+1341,23184,Office of the Deputy Chief Labour Commissioner (Central),Labour & Employment
+1342,23185,"Employees Provident Fund Organisation Peenya,Banglore",Labour & Employment
+1343,23186,"ESIC Hospital,Kolhapur",Labour & Employment
+1344,23187,"ESIC,Thane",Labour & Employment
+1345,24101,Deptt. of Justice,Law & Justice
+1346,24201,Deptt. of Legal Affairs,Law & Justice
+1347,24202,National Legal Service Authority Delhi,Law & Justice
+1348,24203,"Indian Law Institute Bhagwan Das Road, New Delhi",Law & Justice
+1349,24204,"Legal Affairs,Branch Secretariat,Mumbai",Law & Justice
+1350,24205,Justice(Retd.) S N Dhingra Committee,Law & Justice
+1351,24301,Legislative Deptt.,Law & Justice
+1352,24302,Official Languages Wing,Law & Justice
+1353,25101,"M/o Micro, Small & Medium Enterprises","Micro, Small & Medium Enterprises"
+1354,25102,"NSIC, Technical Service Centre, Chennai","Micro, Small & Medium Enterprises"
+1355,25103,"KVIC, Mumbai","Micro, Small & Medium Enterprises"
+1356,25104,"KVIC, Tiruvananthapuram","Micro, Small & Medium Enterprises"
+1357,25105,"Cottage Industries Corporation, Delhi","Micro, Small & Medium Enterprises"
+1358,25106,National Small Industries Corpn. Ltd. Delhi,"Micro, Small & Medium Enterprises"
+1359,25107,"Central Instt. of Hand Tools, Jalandhar","Micro, Small & Medium Enterprises"
+1360,25108,"IGTR, Ahemadabad","Micro, Small & Medium Enterprises"
+1361,25109,"IDTR, Jamshedpur","Micro, Small & Medium Enterprises"
+1362,25110,"Process & Product Development Centre, Agra","Micro, Small & Medium Enterprises"
+1363,25112,"Credit Guarantee Fund Trust for Small Industries (CGTSI), Mumbai","Micro, Small & Medium Enterprises"
+1364,25113,MSME Development Institute (MSME),"Micro, Small & Medium Enterprises"
+1365,25114,"CITD, Hyderabad","Micro, Small & Medium Enterprises"
+1366,25115,"NSIC, Technical Service Centre, Delhi","Micro, Small & Medium Enterprises"
+1367,25116,"Fragrance  & Flavour Development Centre, Kannauj","Micro, Small & Medium Enterprises"
+1368,25117,"Indian Instt.of Enterpreneurship, Guwahati","Micro, Small & Medium Enterprises"
+1369,25118,"Central Footwear Technology Institute, Chennai","Micro, Small & Medium Enterprises"
+1370,25119,"Central Footwear Technology Institute, Agra","Micro, Small & Medium Enterprises"
+1371,25120,"Tool Room & Trg. Centre, Kolkata","Micro, Small & Medium Enterprises"
+1372,25121,"Tool Room & Trg. Centre, Guwahati","Micro, Small & Medium Enterprises"
+1373,25122,"Tool Room & Trg. Centre, Bhubaneswar","Micro, Small & Medium Enterprises"
+1374,25123,"Indo-German Tool Room, Indore","Micro, Small & Medium Enterprises"
+1375,25124,"Indo-German Tool Room, Aurangabad","Micro, Small & Medium Enterprises"
+1376,25125,"Institute for Design of Elect. Measuring Instruments, Mumbai","Micro, Small & Medium Enterprises"
+1377,25126,"National Small Industrial Corporation Ltd., Howrah","Micro, Small & Medium Enterprises"
+1378,25127,"Centre for the Development of Glass Industry, Firozabad","Micro, Small & Medium Enterprises"
+1379,25128,"Small Industries Development Bank of India (SIDBI), Lucknow","Micro, Small & Medium Enterprises"
+1380,25129,"National Small Industrial Corporation Ltd., Hyderabad","Micro, Small & Medium Enterprises"
+1381,25130,"Process Cum Product Development Centre, Meerut","Micro, Small & Medium Enterprises"
+1382,25131,"Coir Board,Kochi","Micro, Small & Medium Enterprises"
+1383,25132,"NSIC, Chennai","Micro, Small & Medium Enterprises"
+1384,25133,"Khadi & Village Industries Commission, New Delhi","Micro, Small & Medium Enterprises"
+1385,25134,MAHATMA GANDHI INSTITUTE FOR RURAL INDUSTRIALIZATION,"Micro, Small & Medium Enterprises"
+1386,26101,Ministry of Mines,Mines
+1387,26102,MECL Nagpur,Mines
+1388,26103,National Institute of Rock Mechanics,Mines
+1389,26104,"Geological Survey of India, Delhi",Mines
+1390,26105,"Geological Survey of India, Kolkata",Mines
+1391,26106,"Geological Survey of India,Bangalore",Mines
+1392,26107,"Indian Bureau of Mines, Nagpur",Mines
+1393,26108,"Indian Bureau of Mines, Ajmer",Mines
+1394,26109,"Indian Bureau of Mines, Goa",Mines
+1395,26110,36th International Geological Congress,Mines
+1396,26111,National Aluminum Company Ltd.(NALCO),Mines
+1397,27101,Ministry of Minority Affairs,Minority Affairs
+1398,27102,"National Commission for Minorities, New Delhi",Minority Affairs
+1399,27103,national Waqf Development Corporation Ltd.,Minority Affairs
+1400,27104,National Minorities Development & Finance Corporation,Minority Affairs
+1401,27105,Central Waqf Council,Minority Affairs
+1402,27106,H.Q. Office of the Commissioner for Linguistic Minorities,Minority Affairs
+1403,27107,Maulana Azad Education Foundation,Minority Affairs
+1404,28101,Ministry of New & Renewable Energy,New & Renewable Energy
+1405,28102,National Institute of Solar Energy (NISE),New & Renewable Energy
+1406,28103,Indian Renewable Energy Development Agency Linited(IREDA),New & Renewable Energy
+1407,29101,Ministry of Overseas Indian Affairs,Overseas Indian Affairs
+1408,30101,Ministry of Panchayati Raj,Panchayati Raj
+1409,31101,Ministry of Parliamentary Affairs,Parliamentary Affairs
+1410,31102,Lok Sabha Sectt.(P),Parliamentary Affairs
+1411,31103,Rajya Sabha Secretariat,Parliamentary Affairs
+1412,31201,Lok Sabha Sectt. (NP),Parliamentary Affairs
+1413,31202,Rajya Sabha Sectt. (NP),Parliamentary Affairs
+1414,32101,Deptt. of Administrative Reforms & Public Grievances,Personnel Public Grievance & Pensions
+1415,32102,"Central Administrative Tribunal, New Delhi",Personnel Public Grievance & Pensions
+1416,32201,Deptt. of Personnel & Training,Personnel Public Grievance & Pensions
+1417,32202,LBS NAA Mussoorie,Personnel Public Grievance & Pensions
+1418,32203,Staff Selection Commission,Personnel Public Grievance & Pensions
+1419,32204,Staff Selection Commission (NP),Personnel Public Grievance & Pensions
+1420,32205,C.B.I.,Personnel Public Grievance & Pensions
+1421,32206,"Indian Institute of Public Administration, New Delhi",Personnel Public Grievance & Pensions
+1422,32207,Institute of Secretariat Training and Management (ISTM),Personnel Public Grievance & Pensions
+1423,32301,Department of Pensions,Personnel Public Grievance & Pensions
+1424,33101,Ministry of Petroleum & Natural Gas,Petroleum & Natural Gas
+1425,33102,"DG Hydro Carbons, Delhi.",Petroleum & Natural Gas
+1426,33103,OIL India Limited,Petroleum & Natural Gas
+1427,33104,PCRA,Petroleum & Natural Gas
+1428,33105,"Indian Instt. of Petroleum, Dehradun",Petroleum & Natural Gas
+1429,33106,"Rajiv Gandhi Institute of Pertroleum Technology, NOIDA",Petroleum & Natural Gas
+1430,33107,Oil and Natural Gas Corporation Ltd.,Petroleum & Natural Gas
+1431,33108,Bharat Petroleum Corporation Limited,Petroleum & Natural Gas
+1432,33109,"Indian Oil Corporation Limited,MP State Office",Petroleum & Natural Gas
+1433,33110,Corporate Communication Dept. Assam Asset Nazira,Petroleum & Natural Gas
+1434,33111,Hindustan Petroleum Corporation Limited,Petroleum & Natural Gas
+1435,33112,"Petroleum and Natural Gas Regulatory Board, New Delhi",Petroleum & Natural Gas
+1436,33113,Oil Industry Development Board(OIDB),Petroleum & Natural Gas
+1437,33114,Indian Strategic Petroleum Reseves Ltd.(ISPRL),Petroleum & Natural Gas
+1438,33115,Hydrocarbon Sector Skill Council(HSSC),Petroleum & Natural Gas
+1439,33116,OIL AND GAS PSUs,Petroleum & Natural Gas
+1440,33117,Petroleum Planning and Analysis Cell (PPAC),Petroleum & Natural Gas
+1441,33118,Gail India Ltd.,Petroleum & Natural Gas
+1442,33119,Oil Industry Safety Directorate (OISD),Petroleum & Natural Gas
+1443,34101,Ministry of Power,Power
+1444,34102,Central Electricity Authority,Power
+1445,34103,Rural Electrification Corporation,Power
+1446,34104,"Central Power Research Instt., Bangalore",Power
+1447,34105,Central Electricity Regulatory Commission,Power
+1448,34106,Bureau of Energy Efficiency,Power
+1449,34107,National Power Trg. Instt. Faridabad,Power
+1450,34108,National Power Trg. Instt. Badarpur,Power
+1451,34109,National Power Trading Corporation,Power
+1452,34110,"Baitwa River Board, Lalitpur",Power
+1453,34111,"BBMB, O&M Divn. Panipat",Power
+1454,34112,"BBMB (PW), Chandigarh",Power
+1455,34113,"BBMB (P&D PP Divn), Chandigardh",Power
+1456,34114,"BBMB (Irrigation Wing), Talwara",Power
+1457,34115,BBMB (IW) Nangal,Power
+1458,34116,BBMB (PW) Nangal,Power
+1459,34117,"BBMB (O&M), Jamalpur Ludhiana",Power
+1460,34118,"BBMB (IW), Sundernagar (HP)",Power
+1461,34119,"BBMB (PW), Slapper",Power
+1462,34120,"Bhakra Beas Management Board, Secretriat, Chandigarh",Power
+1463,34121,"Tehri Hydro Development Corporation Ltd., Rishikesh",Power
+1464,34122,"Appellate Tribunal For Electricity, Delhi",Power
+1465,34123,Northern Regional Power Committee,Power
+1466,34124,"Joint Electricity Regulatory Commission,Goa And UTs",Power
+1467,34125,North Eastern Power Committee (NERPC),Power
+1468,34126,NTPC Limited,Power
+1469,34127,National High Power Test Laboratory Pvt Ltd,Power
+1470,34128,NHPC Limited,Power
+1471,34129,Energy Efficiency Services Ltd,Power
+1472,34130,National Power Trg. Instt. Shivpuri,Power
+1473,34131,Powergrid corporation of India Ltd,Power
+1474,34132,"Hydro Power Training Centre,Nangal",Power
+1475,35101,Deptt. of Rural Development,Rural Development
+1476,35102,"National Instt. of Rural Development, Hyderabad",Rural Development
+1477,35103,CAPART,Rural Development
+1478,35104,National Rural Roads,Rural Development
+1479,35201,Deptt. of Land Resources,Rural Development
+1480,35202,National Rural Livelihoods promotion Society,Rural Development
+1481,35301,Deptt. of Drinking Water Supply,Drinking Water Supply
+1482,36101,Deptt. of Science & Technology,Science & Technology
+1483,36102,"Surveyor General of India, Dehradun",Science & Technology
+1484,36103,Vigyan Prasar,Science & Technology
+1485,36104,"Birbal Sahani Intt. of Paleobotany, Lucknow",Science & Technology
+1486,36105,Indian National Science Academy,Science & Technology
+1487,36106,Technology Development Board,Science & Technology
+1488,36107,National Brain Centre,Science & Technology
+1489,36108,"Institute of Himalayan Bio-resources Technology, Palampur (HP)",Science & Technology
+1490,36109,"Central Drug Research Institute, Lucknow",Science & Technology
+1491,36110,"National Geo Physical Instt., Pune",Science & Technology
+1492,36111,Arya Bhatta Research Intt. of Observational Sciences,Science & Technology
+1493,36112,Institute of Life Science,Science & Technology
+1494,36113,Institute of Cytology and Preventive Oncology,Science & Technology
+1495,36114,TIFAC,Science & Technology
+1496,36115,National Accreditation Board for Testing & Calliberation Laboratories,Science & Technology
+1497,36116,National Instt. of Immunology,Science & Technology
+1498,36117,"Institute of Advanced Study In Science And Technology,Guwahati",Science & Technology
+1499,36118,National Innovation Foundation,Science & Technology
+1500,36119,Bose Institute(Central Autonomous S and T Institutes),Science & Technology
+1501,36120,International Advanced Research Centre for Powder Metallurgy and New Materials(ARCI),Science & Technology
+1502,36121,North East Centre for Technology Application and Reach (NECTAR),Science & Technology
+1503,36122,"Wadia Institute of Himalayan Geology,Dehradun",Science & Technology
+1504,36123,Indo French Centre for the Promotion of Advanced Research(IFCPAR),Science & Technology
+1505,36124,National Atlas and Thematic Mapping Organisation,Science & Technology
+1506,36125,NIFientreC,Science & Technology
+1507,36126,"CSIR-NATIONAL INSTITUTE OF SCIENCE, TECHNOLOGY AND DEVELOPMENT STUDIES(NISTADS)",Science & Technology
+1508,36201,Deptt. of Scientific & Industrial Research,Science & Technology
+1509,36202,Council of Scientific & Industrial Research,Science & Technology
+1510,36203,"Central Mechanical Engg. Research Instt., Durgapur",Science & Technology
+1511,36204,"CENTRAL ELECTRONICS LIMITED, SAHIBABAD",Science & Technology
+1512,36205,"Central Building Research Institute, Roorkee",Science & Technology
+1513,36206,"National Research Development Corporation,New Delhi",Science & Technology
+1514,36207,Science And Engineering Research Borad (SERB),Science & Technology
+1515,36208,"CSIR-HRDC,Ghaziabad",Science & Technology
+1516,36209,CSIR-National Physical Laboratory,Science & Technology
+1517,36210,CSIR-NISCAIR,Science & Technology
+1518,36211,CSIR-Central Road Research Institute(CRRI),Science & Technology
+1519,36301,Deptt. of Biotechnology,Science & Technology
+1520,36302,Biotechnology Industry Research Assistance Council (BIRAC),Science & Technology
+1521,36303," Bharat Immunobilogicals & Biological (BIBCOL),Bulandshahar",Science & Technology
+1522,36401,"Deptt. of Ocean Deveopment, Chennai",Science & Technology
+1523,37101,Department of Road Transport & Highways,Road Transport & Highways
+1524,37102,Border Road Organisation,Road Transport & Highways
+1525,37103,"NHAI, Delhi",Road Transport & Highways
+1526,37104,"NHAI, Gurgoan",Road Transport & Highways
+1527,37105,"NHAI, Trivendrum",Road Transport & Highways
+1528,37106,"NHAI, Coimbtore",Road Transport & Highways
+1529,37107,National Highways Authority of India,Road Transport & Highways
+1530,37108,"Indian Road Construction Corporation Ltd., New Delhi",Road Transport & Highways
+1531,37109,"Road Transport And Highways, Regional Office-Guwahati",Road Transport & Highways
+1532,37110,"Road Transport And Highways, Regional Office-Mumbai",Road Transport & Highways
+1533,37111,Association of State Road Transport Undertaking(ASRTU),Road Transport & Highways
+1534,37112,National Highway and Infrastructure Development Corporation Ltd (NHIDCL),Road Transport & Highways
+1535,37201,Deptt. of Shipping,Shipping
+1536,37202,Chennai Port Trust,Shipping
+1537,37203,Indian Ports Association,Shipping
+1538,37204,Cochin Shipyard,Shipping
+1539,37205,DG Light Houses,Shipping
+1540,37206,"DG of Shipping, Mumbai",Shipping
+1541,37207,Andman Harbour Works,Shipping
+1542,37208,"Indian Maritime University,Chennai",Shipping
+1543,37209,Tariff Authority For Major Ports - Mumbai,Shipping
+1544,37210,Dredging Corporation of India Ltd,Shipping
+1545,37211,"Inland Waterways Authority of India (IWAI),Noida ",Shipping
+1546,37212,"Directorate of Lighthouses and Lightships, Kolkata",Shipping
+1547,37213,Indian Port Rail Corp Ltd.(IPRCL),Shipping
+1548,37214,V.O.Chidambaranar Port Trust (VOCPT),Shipping
+1549,37215,"Kamarajar Port Ltd,Chennai",Shipping
+1550,37216,Sagarmala Development Company Limited,Shipping
+1551,37217,"Indian Maritime University,Kolkata",Shipping
+1552,37218,"Indian Maritime University,Visakhapatnam",Shipping
+1553,38101,Ministry of Social Justice,Social Justice & Empowerment
+1554,38102,"National Institute for Visually Handicapped, Dehradun",Social Justice & Empowerment
+1555,38103,"Institute for physically handicapped, Delhi",Social Justice & Empowerment
+1556,38104,"Artificial Limb Manufacturing, Delhi",Social Justice & Empowerment
+1557,38105,"National Institute for Mentally Handicapped, Secundrabad",Social Justice & Empowerment
+1558,38106,"NIMH Regional Trg Centre, Delhi",Social Justice & Empowerment
+1559,38107,Ali Yavar Jung Instt. Mumbai,Social Justice & Empowerment
+1560,38108,"National Handicapped Finance Corpn.,Faridabad",Social Justice & Empowerment
+1561,38109,"Distt. Rehabilitation Centre, Delhi.",Social Justice & Empowerment
+1562,38110,"National Instt. for Social Defence, Delhi",Social Justice & Empowerment
+1563,38111,"Comp. Regional Centre, Guwahati",Social Justice & Empowerment
+1564,38112,"Ambedkar Foundation, Delhi",Social Justice & Empowerment
+1565,38113,"National Intt. for Orthopaedically Handicapped, Kolkata",Social Justice & Empowerment
+1566,38114,"National Commission for Scheduled Castes, Loknayak Bhawan, New Delhi",Social Justice & Empowerment
+1567,38115,Rehabilitation Council Of India,Social Justice & Empowerment
+1568,38116,National Scheduled Castes Finance And Development Corporation,Social Justice & Empowerment
+1569,38117,Department Of Empowerment of Persons and Disability,Social Justice & Empowerment
+1570,38118,National Instt. of Empowerment of Persons with Multiple Disabilities(NIEPMD),Social Justice & Empowerment
+1571,38119,Indian Sign Language Research & Training Centre(ISLRTC),Social Justice & Empowerment
+1572,38120,National Commission for Safai Karamcharis,Social Justice & Empowerment
+1573,38121,Dr. Ambedkar International Centre (DAIC),Social Justice & Empowerment
+1574,38122,"National Institute of Mental Health Rehabilitation (NIMHR),Sehore",Social Justice & Empowerment
+1575,38123,National Safai Karamcharis Finance and Development Corporation (NSKFDC),Social Justice & Empowerment
+1576,39101,Ministry of Statistics & Programme Implementation,Statistics & Programme Implementation
+1577,39102,National Sample Survey Organisation,Statistics & Programme Implementation
+1578,39103,"Indian Statistical Institute, Kolkata",Statistics & Programme Implementation
+1579,39104,"National Sample Survey Organisation,Jaipur",Statistics & Programme Implementation
+1580,39105,"National Sample Survey Organisation,Ranchi",Statistics & Programme Implementation
+1581,39106,"National Sample Survey Office(FOD),Bangalore",Statistics & Programme Implementation
+1582,39107,National Statistical Systems Training Academy,Statistics & Programme Implementation
+1583,39108,"Indian Statistical Institute,North-East Centre,Tezpur",Statistics & Programme Implementation
+1584,40101,Ministry of Steel,Steel
+1585,40102,National Instt. of Steel Technology,Steel
+1586,40103,Project Management Cell,Steel
+1587,40104,Hindustan Steelworks Construction Limited,Steel
+1588,40105,Steel Authority of India Ltd.(SAIL),Steel
+1589,40106,MSTC Ltd.,Steel
+1590,41101,Ministry of Textiles,Textiles
+1591,41102,"Development Commissioner Handloom, Delhi",Textiles
+1592,41103,"Development Commissioner Handicrafts, Delhi",Textiles
+1593,41104,Textile Committee,Textiles
+1594,41105,National Handicraft & Handloom Museum,Textiles
+1595,41106,Council for Handicraft Development,Textiles
+1596,41107,"National Instt. of Fashion Technology, Delhi",Textiles
+1597,41108,"Apparel Training & Design Centre, Delhi",Textiles
+1598,41109,"Central Silk Board, Bangalore",Textiles
+1599,41110,"Silk Mark Organisation, Bangalore",Textiles
+1600,41111,Central Silk Technological Research Instt. Bangalore,Textiles
+1601,41112,"Export Promotion Council for Handicrafts, New Delhi",Textiles
+1602,41113,"Central Cottage Industries Corporation of India, New Delhi",Textiles
+1603,41114,"The Cotton Corporation of India Ltd, New Delhi",Textiles
+1604,41115,"Muga Silkworm Seed Organisation, Central Silk Board, Guwahati",Textiles
+1605,41116,"Textile Commissioner, Banglore",Textiles
+1606,41117,"Office Of The Jute Commissioner,Kolkata",Textiles
+1607,41118,"Regional Office Of The Textile Commissioner, Navi Mumbai",Textiles
+1608,41119,"The Synthetic and Rayon Textiles Export Promotion Council, Mumbai",Textiles
+1609,41120,"National Jute Manufacrures Corp Ltd.,Kolkata",Textiles
+1610,41121,"The Cotton Corporation of India Ltd,Kolkata",Textiles
+1611,41122,The Jute Corporation of India Ltd,Textiles
+1612,41123,"The Cotton Corporation of India Ltd,Navi Mumbai",Textiles
+1613,41124,"Carpet Export Promotion Council,New Delhi",Textiles
+1614,42101,Ministry of Tourism,Tourism
+1615,42102,"National Council for Hotel Management, Delhi",Tourism
+1616,42103,"Instt. of Hotel Management, Delhi",Tourism
+1617,42104,"Instt. of Hotel Management, Chennai",Tourism
+1618,42105,"Instt. of Hotel Management, Hyderabad",Tourism
+1619,42106,"Instt. of Hotel Management,Jaipur",Tourism
+1620,42107,"Instt. of Hotel Management, Chandigarh",Tourism
+1621,42108,"Instt. of Hotel Management, Trivendrum",Tourism
+1622,42109,"Instt. of Hotel Management, Bangalore",Tourism
+1623,42110,"Instt. of Hotel Management, Gwalior",Tourism
+1624,42111,"Instt. of Hotel Management, Guwahati",Tourism
+1625,42112,"Instt. of Hotel Management, Gurdaspur",Tourism
+1626,42113,"Instt. of Hotel Management, Shimla",Tourism
+1627,42114,"Instt. of Hotel Management, Ahmedabad",Tourism
+1628,42115,"Instt. of Hotel Management, Shillong",Tourism
+1629,42116,Indian Instt. of Tourism Gwalior,Tourism
+1630,42117,"Food Craft Institute, Udaipur",Tourism
+1631,42118,"Food Craft Institute,Faridabad",Tourism
+1632,43101,Ministry of Tribal Affairs (R&M),Tribal Affairs
+1633,43102,Ministry of Tribal Affairs (PC&V),Tribal Affairs
+1634,43103,Ministry of Tribal Affairs (Education),Tribal Affairs
+1635,43104,The Tribal Cooperative Marketing Development Federation of India (TRIFED),Tribal Affairs
+1636,43105,National ST Finance & Development Corpn.,Tribal Affairs
+1637,43106,National Commission For Scheduled Tribes,Tribal Affairs
+1638,43107,National Education Society for Tribal Students(NESTS),Tribal Affairs
+1639,44101,Ministry of Urban Development,Urban Development
+1640,44102,Directorate of Estates,Urban Development
+1641,44103,National Capital Region Planning Board,Urban Development
+1642,44104,National Instt. of Urban Affairs,Urban Development
+1643,44105,Central Public Works Department (CPWD),Urban Development
+1644,44106,Department of Publications,Urban Development
+1645,44107,Land & Development Office,Urban Development
+1646,44108,Controller of Stationery,Urban Development
+1647,44109,Govt. of India Press Coimbtore,Urban Development
+1648,44110,"Govt. of India Press, Delhi",Urban Development
+1649,44111,"Govt. of India Press,Trissur",Urban Development
+1650,44112,"Govt. of India Press, Nilokheri, Haryana",Urban Development
+1651,44113,"Govt. of India Press, Nasik",Urban Development
+1652,44114,"Govt. of India Press, Aligarh",Urban Development
+1653,44115,"Govt. of India Press, Shimla",Urban Development
+1654,44116,Town And Country Planning Organisation,Urban Development
+1655,44117,"Govt. of India Press, Faridabad",Urban Development
+1656,44118,"Govt. of India Press, Kolkata",Urban Development
+1657,44119,Hemisphere Properties India Limited (HPIL),Urban Development
+1658,45101,Ministry of Water Resources,Water Resources
+1659,45102,Central Water Commission,Water Resources
+1660,45103,"Central Ground Water Board, Faridabad",Water Resources
+1661,45104,Central Ground Water Authority,Water Resources
+1662,45105,"Central Soil & Material Research Station, Delhi",Water Resources
+1663,45106,"Central Water & Power Research Instt., Pune",Water Resources
+1664,45107,"Farraka Barrage Project, Murshidabad",Water Resources
+1665,45108,Brahmputra Board,Water Resources
+1666,45109,Narmada Control Authority,Water Resources
+1667,45110,Water & Power Consultancy Service Ltd.,Water Resources
+1668,45111,"National Institute of Hydrology, Roorkee",Water Resources
+1669,45112,Task Force on Interlinking of Rivers,Water Resources
+1670,45113,"National Water Development Authority, Delhi",Water Resources
+1671,45114,"National Water Development Authority, Lucknow",Water Resources
+1672,45115,Krishna Water Disputes Tribunal,Water Resources
+1673,45116,Central Water Commission Snow Hydrology Division,Water Resources
+1674,45117,Upper Yamuna River Board,Water Resources
+1675,45118,Ganga Flood Control Commission,Water Resources
+1676,45119,Pancheshwar Development Authority,Water Resources
+1677,45120,National Projects Construction Corporation Limited,Water Resources
+1678,45121,River Development & Ganga Rejuvenation,Water Resources
+1679,45122,National Water Informatics Centre,Water Resources
+1680,45123,Krishna River Management Board,Water Resources
+1681,45124,National River Conservation Directorate,Water Resources
+1682,45125,National Mission For Clean Ganaga(NMCG),Water Resources
+1683,46101,Ministry of Women and Child Development,Women and Child Development
+1684,46102,CARA,Women and Child Development
+1685,46103,Rashtriya Mahila Kosh,Women and Child Development
+1686,46104,FNB Delhi,Women and Child Development
+1687,46105,National Commission for Women,Women and Child Development
+1688,46106,National Institute of Public Co-operation and Child Development,Women and Child Development
+1689,46107,"Central Social Welfare Board, New Delhi",Women and Child Development
+1690,46108,"National Commission for Protection of Child Rights, New Delhi",Women and Child Development
+1691,46109,National Mission For Empowerment of Women,Women and Child Development
+1692,46110,Beti Bachao Beti Padhao(BBBP),Women and Child Development
+1693,46111,ISSNI,Women and Child Development
+1694,46112,Pradhan Mantri Matru Vandan Yojana(PMMVY),Women and Child Development
+1695,46113,Central Food Testing Laboratory(CFTL),Women and Child Development
+1696,47101,Ministry of Youth Affairs & Sports,Youth Affairs & Sports
+1697,47102,Nehru Yuva Kendra Sangathan,Youth Affairs & Sports
+1698,47103,Sports Authority of India,Youth Affairs & Sports
+1699,47104,National Commission for Youth,Youth Affairs & Sports
+1700,47105,"COMMONWEALTH GAMES 2010, DELHI",Youth Affairs & Sports
+1701,47106,Rajiv Gandhi National Institute of Youth Development,Youth Affairs & Sports
+1702,47107,Department Of Youth Affairs,Youth Affairs & Sports
+1703,47108,Department Of Sports,Youth Affairs & Sports
+1704,47109,"12TH SOUTH ASIAN GAMES (SAG),GUWAHATI",Youth Affairs & Sports
+1705,47110,National Sports Development Fund,Youth Affairs & Sports
+1706,47111,Organizing Committee for BRICS Football Tournament,Youth Affairs & Sports
+1707,47112,School Sports Promotion Foundation,Youth Affairs & Sports
+1708,47113,National Dope Testing Laboratory(NDTL),Youth Affairs & Sports
+1709,47114,Mission Directorate Sports Development,Youth Affairs & Sports
+1710,47115,SAI LNCPE,Youth Affairs & Sports
+1711,47116,National Sports University Society,Youth Affairs & Sports
+1712,47117,"National Anti Doping Agency(NADA),New Delhi",Youth Affairs & Sports
+1713,48101,"D/o. Atomic Energy, Mumbai",Atomic Energy (Independent Deptt.)
+1714,48102,"Nuclear Fuel Complex, Hyderabad",Atomic Energy (Independent Deptt.)
+1715,48103,"Bhaba Atomic Research Centre, Mumbai",Atomic Energy (Independent Deptt.)
+1716,48104,"BARC facility, Kalpakkam",Atomic Energy (Independent Deptt.)
+1717,48105,"BARC-General Service Organisation, Tarapur",Atomic Energy (Independent Deptt.)
+1718,48106,"Raja Ramanna Centre for Advance Technology, Indore",Atomic Energy (Independent Deptt.)
+1719,48107,"Dte. of Purchase & Stores, Mumbai",Atomic Energy (Independent Deptt.)
+1720,48108,"Dte. of Purchase & Stores, Secundrabad",Atomic Energy (Independent Deptt.)
+1721,48109,"Dte. of Purchase & Stores, Chennai",Atomic Energy (Independent Deptt.)
+1722,48110,"Atomic Minerals Dte., Hyderabad",Atomic Energy (Independent Deptt.)
+1723,48111,"Dte. of Construction Services & Estate Management, Mumbai",Atomic Energy (Independent Deptt.)
+1724,48112,"Heavy Water Board, Mumbai",Atomic Energy (Independent Deptt.)
+1725,48113,"Heavy Water Plant, Baroda",Atomic Energy (Independent Deptt.)
+1726,48114,"Heavy Water Plant, Kota",Atomic Energy (Independent Deptt.)
+1727,48115,"Heavy Water Plant, Manuguru",Atomic Energy (Independent Deptt.)
+1728,48116,"Heavy Water Plant, Talcher",Atomic Energy (Independent Deptt.)
+1729,48117,"Heavy Water Plant, Tuticorin",Atomic Energy (Independent Deptt.)
+1730,48118,"Variable Energy Cyclotron, Kolkota",Atomic Energy (Independent Deptt.)
+1731,48119,"Indira Gandhi Centre for Atomic Research, Kalpakkam",Atomic Energy (Independent Deptt.)
+1732,48120,"Atomic Energy Education Society, Mumbai",Atomic Energy (Independent Deptt.)
+1733,48121,Atomic Energy Regulatory Board,Atomic Energy (Independent Deptt.)
+1734,48122,"Indian Instt. of Physics, Bhubaneswar",Atomic Energy (Independent Deptt.)
+1735,48123,"Harish-Chandra Research Institute, Allahabad",Atomic Energy (Independent Deptt.)
+1736,48124,"Tata Intt. of Fundamental Research, Mumbai",Atomic Energy (Independent Deptt.)
+1737,48125,"Intt. of Mathematical Sciences,Chennai",Atomic Energy (Independent Deptt.)
+1738,48126,"Directorate of Purchase and Stores, Indore",Atomic Energy (Independent Deptt.)
+1739,48127,"Directorate of Purchase and Stores, Hyderabad",Atomic Energy (Independent Deptt.)
+1740,48128,"Directorate of Purchase and Stores, Kalpakkam",Atomic Energy (Independent Deptt.)
+1741,48129,"Indian Rare Earths Ltd., Mumbai",Atomic Energy (Independent Deptt.)
+1742,48130,"BARC, General Service Organisation, Kalpakkam",Atomic Energy (Independent Deptt.)
+1743,48131,Board of Radiation and Isotope Technology(BRIT) Mumbai,Atomic Energy (Independent Deptt.)
+1744,48132,Nuclear Power Corporation of India Limited(NPCIL),Atomic Energy (Independent Deptt.)
+1745,48133,Homi Bhabha National Institute-Mumbai,Atomic Energy (Independent Deptt.)
+1746,48134,Uranium Corporation of India Limited(UCIL) Jharkhand,Atomic Energy (Independent Deptt.)
+1747,48135,Saha Institute of Nuclear Physics,Atomic Energy (Independent Deptt.)
+1748,48136,Institute of Plasma Research,Atomic Energy (Independent Deptt.)
+1749,48137,Mahi Banswara Rajasthan Atomic Power Project (MBRAPP),Atomic Energy (Independent Deptt.)
+1750,49101,Deptt. of Space,Space
+1751,49102,"ISRO Satellite Centre,Bangalore.",Space
+1752,49103,"ISRO, Telemetry, Cracking and Command Network (ISTRAC), Bangalore",Space
+1753,49104,"ISRO, Radar Development Cell (ISRAD), Bangalore",Space
+1754,49105,"Liquid Propulsion Systems Centre (LPSE), Bangalore",Space
+1755,49106,"Liquid Propulsion Systems Centre (LPSE), Tiruananthapuram",Space
+1756,49107,"Space Application Centre (SAC), Ahmedabad",Space
+1757,49108,"Space Application Centre, Delhi Earth Station, New Delhi",Space
+1758,49109,"Satish Dhawan, Space Centre (SDSC), Sriharikota",Space
+1759,49110,"Master Control Facility, Hassan(Karnataka)",Space
+1760,49111,"Master Control Facility,Bhopal",Space
+1761,49112,"National Remote Sensing Agency (NRSA), Hyderabad.",Space
+1762,49113,"Vikram Sarabhai Space Centre (VSSC) Tiruananthapuram, Kerala",Space
+1763,49114,"Advanced Data Processing Research Institute (ADRIN),  Secunderabad",Space
+1764,49115,"LEOS , Bangalore",Space
+1765,49116,"Indian Intt. of Remote Sensing, Dehradun",Space
+1766,49117,"National MST Radar Facility, Tirupati",Space
+1767,49118,"Antrix Corporation Ltd,Bangalore",Space
+1768,49119,ISRO Propulsion Complex(IPRC),Space
+1769,50101,Central Information Commission,Central Information Commission
+1770,51101,Comptroller General of India,Comptroller General of India
+1771,52101,Election Commission of India,Election Commission of India
+1772,53101,National Human Rights Commission,National Human Rights Commission
+1773,54101,Niti Ayog(NP),Niti Ayog
+1774,54102,Niti Ayog,Niti Ayog
+1775,54103,"Unique Identification Authority Of India,UIDAI (Paying)",UIDAI
+1776,54104,"UIDAI,Regional Office, Banglore",UIDAI
+1777,54105,"Unique Identification Authority Of India (Regional Office),Delhi",UIDAI
+1778,54106,"UIDAI,Regional Office, Ranchi",UIDAI
+1779,54107,"UIDAI,Regional Office, Hyderabad",UIDAI
+1780,54108,"UIDAI, REGIONAL OFFICE MUMBAI",UIDAI
+1781,54109,"UIDAI, REgional Office, Chandigarh",UIDAI
+1782,54110,"UIDAI,Regional Office, Lucknow",UIDAI
+1783,54111,"UIDAI,Regional Office, Guwahati",UIDAI
+1784,54112,Atal Innovation Mission,Niti Ayog
+1785,55101,U.P.S.C (Exam.),U.P.S.C
+1786,55102,U.P.S.C (Rectt.),U.P.S.C
+1787,55103,U.P.S.C. (General),U.P.S.C
+1788,55104,UPSC (NP),U.P.S.C
+1789,56101,President Sectt. (NP),President Sectt.
+1790,56102,Presidents Bodyguard,President Sectt.
+1791,57101,Prime Minister's Office (NP),Prime Minister's Office
+1792,57102,Prime Minister's Office (PY),Prime Minister's Office
+1793,57103,Economic Advisory Council to the Prime Minister,Prime Minister's Office
+1794,58101,Cabinet Sectt. (NP),Cabinet Sectt.
+1795,59101,Central Vigilance Commission (NP),Central Vigilance Commission
+1796,59102,"Central Vigilance Commission, New Delhi",Central Vigilance Commission
+1797,61101,"Andaman & Nicobar Administration(Directorate of Sports,Arts & Culture)","Andaman & Nicobar Administration(Directorate of Sports,Arts & Culture)"
+1798,62101,Reserve Bank of India (RBI),Reserve Bank of India (RBI)
+1799,62102,"National Housing Bank,New Delhi",Reserve Bank of India (RBI)
+1800,62103,National Payments Corporation of India,Reserve Bank of India (RBI)
+1801,63101,Skill Developement And Entreneurship,Skill Developement And Entreneurship
+1802,63102,National Skill Development Agency,Skill Developement And Entreneurship
+1803,63103,Instrumentation Automation Surveillance & Communication Sector Skill Council,Skill Developement And Entreneurship
+1804,63104,"Advanced Training Institute Sion,Mumbai",Skill Developement And Entreneurship
+1805,63105,"National Skill Trainer Institute,Goa",Skill Developement And Entreneurship
+1806,63106,"National Skill Trainer Institute for Women,Vadodara",Skill Developement And Entreneurship
+1807,63107,"National Skill Trainer Institute for Women,Mumbai",Skill Developement And Entreneurship
+1808,63108,"National Skill Trainer Institute for Women,Noida",Skill Developement And Entreneurship
+1809,63109,"National Skill Trainer Institute for Women,Patna",Skill Developement And Entreneurship
+1810,63110,"National Skill Training Institute(Women),Panipat",Skill Developement And Entreneurship
+1811,63111,"National Skill Training Institute(Women),Trichy",Skill Developement And Entreneurship
+1812,63112,Central staff training and research institute,Skill Developement And Entreneurship
+1813,64102,Indian Railway Catering And Tourism Corporation Ltd.(IRCTC),Minsitry Of Railways
+1814,64103,Indian Railways Organization For Alternate Fuel(IORAF),Minsitry Of Railways
+1815,64104,"Indian Railway Catering And Tourism Corporation Ltd.(IRCTC),New Delhi",Minsitry Of Railways
+1816,64105,"Indian Railway Catering And Tourism Corporation Ltd.(IRCTC),Kolkata",Minsitry Of Railways
+1817,64106,"Indian Railway Catering And Tourism Corporation Ltd.(IRCTC),Mumbai",Minsitry Of Railways
+1818,64107,"Indian Railway Catering And Tourism Corporation Ltd.(IRCTC),Chennai",Minsitry Of Railways
+1819,64108,"Indian Railway Catering And Tourism Corporation Ltd.(IRCTC),Secunderabad",Minsitry Of Railways
+1820,64109,Container Corporation of India Ltd.,Minsitry Of Railways
+1821,65101,Special Agriculture Campaign,Agriculture

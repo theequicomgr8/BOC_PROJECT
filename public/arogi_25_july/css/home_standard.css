@@ -1,0 +1,43 @@
+<!--
+#header { 
+width: 100%;
+color: #000;
+    padding: 0px;
+    text-align: center;
+	/*border: 1px solid #DDE2E7;*/
+	overflow:hidden;
+	background-image:url(images/2banner_mid_strp.jpg);
+	background-repeat:repeat-x;
+	
+	margin-top:0px;
+	}
+
+#header_left1 {
+width:870px;
+height:165px;
+float:left;
+vertical-align:middle;
+}
+
+#header_right1 {
+	width:113px;
+	height:165px;
+float:right;
+vertical-align:middle;
+}
+
+#BannerHeading
+{
+	/*z-index:9999;*/
+	position:absolute;
+	left:0px;
+	margin-left:0px;
+	width:100%;
+	color:#660000;
+	text-align:center;
+	margin-top:130px;
+	font-family:Verdana, Geneva, sans-serif;
+	/*font-size:17px;*/
+	font-weight:bold;
+}
+-->

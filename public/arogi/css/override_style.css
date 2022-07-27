@@ -1,0 +1,146 @@
+
+html,body{padding:0px;margin:0px; }
+.container
+{
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  overflow:hidden;
+}
+#money_scroll
+{
+width:95%;
+margin-left:0px;
+margin-right:auto;
+margin-bottom:8px;
+}
+.navbar{margin-bottom:0px;}	
+.span2 .span3 .span4{
+	font-family:Verdana, Geneva, sans-serif !important;
+	font-size:10px !important;
+}
+.checkbox
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+	color:#00C;
+}
+.text-info,.text-warning
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:rgb(139, 0, 0);
+	font-weight:400;
+}
+.text-warning{color:Red;}
+/*input[type="text"] {
+  font-family:Verdana, Geneva, sans-serif !important;
+  font-size:11px !important;
+  display:inline !important;
+  height: 20px !important;
+  padding: 2px 2px !important;
+  margin-bottom: 8px !important;
+  color: #555555;
+  vertical-align: middle;
+  -webkit-border-radius: 0px;
+     -moz-border-radius: 0px;
+          border-radius: 0px
+}*/
+
+select[multiple]{
+  height: 100px;
+  font-family:Verdana, Geneva, sans-serif;
+  font-size:11px;
+}
+
+.span2{width:250px;}
+.page-header{margin:0px;margin-bottom:20px;border-bottom:0px;}
+.form-horizontal .form-actions{padding-left:0px;margin-top:3px;}
+#signinForm.signinForm .control-label{text-align:left;width:150px;}
+#signinForm{width:35%;margin:0px auto;}
+#signinForm input[type="text"]{ padding: 4px 6px !important;}
+#signinForm .control-label{text-align:left;width:100px;}
+#signinForm .controls{margin-left:125px;}
+#signinForm input[type="text"]{ padding: 4px 6px !important;  -webkit-border-radius: 0 4px 4px 0;
+     -moz-border-radius: 0 4px 4px 0;
+          border-radius: 0 4px 4px 0;}
+.container .row{padding:3px;}
+.container .row .span2{width:160px; font-size:14px;  }
+.container .row .span3{width:230px; font-size:14px; }
+.span4{width:95%;font-size:11px;}
+
+@media print { .container
+{min-width:98%;}
+a[href]:after { content: ""; /* hide visible URL after links. */ }
+}
+.Four_column{width:70%;}
+.Four_column .span2{font-size:11px;width:160px;}
+.Four_column .span3{font-size:11px;margin-left:0px;width:200px;margin-right:30px; }
+.Four_column .span3 input[type="text"]{width:100% !important;}
+.Two_column{width:47%;}
+.Two_column .span2{font-size:11px;width:160px;}
+.Two_column .span3{font-size:11px;margin-left:0px;width:200px;margin-right:30px; }
+.Two_column .span3 input[type="text"]{width:100% !important;}
+.row{margin-left:0px;}
+
+label,select{font-size:13px;font-weight:bold}
+#HomeLogo{display:block; background:#fff url(../images/davp.png) no-repeat center center; }
+/*------------Rc_Agn_Fresh_Entry Page---------------*/
+#Rc_Agn_Fresh_Entry .span2{width:210px;}
+#Rc_Agn_Fresh_Entry .span2 .text-info{font-size:0.8em;display:block;}
+#Rc_Agn_Fresh_Entry #span4{width:100%;margin-left:30px;}
+#Rc_Agn_Fresh_Entry .background{background:#ddd; font-weight:bold;margin-bottom:10px;}
+#Rc_Agn_Fresh_Entry .Block{width:300px;float:left;margin-top:20px;font-size:9px;}
+#Rc_Agn_Fresh_Entry .Block .row{width:100%;margin:0px; padding:0px;}
+#Rc_Agn_Fresh_Entry .Block .row input[type="text"],#Rc_Agn_Fresh_Entry .Block .row select{float:right;width:200px;margin-right:20px;}
+#Rc_Agn_Fresh_Entry .Block .row select{margin-bottom:10px;width:206px;}
+#Rc_Agn_Fresh_Entry .row.Check_box .span2{width:150px;}
+#Rc_Agn_Fresh_Entry .span6{width:950px;font-size:11px;}
+#Rc_Agn_Fresh_Entry .span7{width:160px;float:right;margin-right:40px;font-size:11px;}
+#Rc_Agn_Fresh_Entry .span7 table{width:140px;}
+#ui-datepicker-div{font-size: 80%;}
+#Rc_Agn_Fresh_Entry .input-append .add-on,#Rc_Agn_Fresh_Entry .input-prepend .add-on{padding:2px 5px;}
+#Rc_Agn_Fresh_Entry #txt_date{width:179px;}
+/*------------Rc_Fresh_Attachements Page---------------*/
+.Fresh_Attachements{width:380px !important;}
+.file_Upload{font-size:9px;color:rgb(139, 0, 0);font-family:Verdana, Geneva, sans-serif;}
+.File_Attach{color:#fff;width:100px;}
+.container .row .span3.File_Attach_Column{width:105px;}
+/*-------------Rc_Fresh_details-------------------------*/
+#Rc_Fresh_Details{}
+#Rc_Fresh_Details .span2{width:210px;}
+#Rc_Fresh_Details .span2 .text-info{font-size:0.8em;display:block;}
+#Rc_Fresh_Details #span4{width:100%;margin-left:30px;}
+#Rc_Fresh_Details #Left_Column{float:left;width:330px;}
+#Rc_Fresh_Details #Left_Column .row,#Rc_Fresh_Details #Right_Column .row{font-size:11px;}
+#Rc_Fresh_Details #Left_Column .row.background{}
+#Rc_Fresh_Details #Left_Column .row input[type="text"],#Rc_Fresh_Details #Left_Column .row select,
+#Rc_Fresh_Details #Left_Column .row label,#Rc_Fresh_Details #Right_Column .row input[type="text"],#Rc_Fresh_Details #Right_Column .row textarea,
+#Rc_Fresh_Details #Right_Column .row select{float:right;width:180px;margin-right:10px;}
+#Rc_Fresh_Details #Left_Column .row select{width:186px;}
+#Rc_Fresh_Details #Right_Column{float:left;width:900px; border-left:1px solid #888;}
+#Rc_Fresh_Details #Right_Column .span1{width:140px;float:left;text-align:center;font-size:10px;}
+#Rc_Fresh_Details #Right_Column .span1  select,#Rc_Fresh_Details #Right_Column .span1  input[type="text"]{width:100px;}
+#Rc_Fresh_Details #Right_Column .span2{width:230px;}
+#Rc_Fresh_Details #Right_Column .span6{width:600px;}
+#Rc_Fresh_Details #Right_Column .span7{width:160px;margin-right:40px;}
+#Rc_Fresh_Details #Right_Column .span3 table,#Rc_Fresh_Details #Right_Column .span7 table{width:140px;}
+#Rc_Fresh_Details #Right_Column .span7 table#rb_pap_quality{width:215px;}
+#Rc_Fresh_Details #Right_Column .row textarea{width:175px;max-width:175px;Height:55px;max-height:55px; }
+#Rc_Fresh_Details .background{background:#ddd; font-weight:bold;margin-bottom:10px;}
+#tbl_old_pub{background:#f7f7f7;}
+.with_pretend{margin-left:-5px;}
+#Rc_Fresh_Details #Right_Column .span7.with_pretend input[type="text"]{width:145px;float:left;padding-bottom:6px !important;margin-right:0px;}
+#Rc_Fresh_Details #Right_Column .row.background{width:100%;}
+.radiobuttonlist_nowrap label
+		{display:inline;
+            font-size:11px;
+            font-weight:bold;
+	    vertical-align: middle;
+	    width:800px;}
+.chk_nowrap label
+		{display:inline;
+            font-size:11px;
+            font-weight:bold;
+	    vertical-align: middle;
+	    width:800px;}

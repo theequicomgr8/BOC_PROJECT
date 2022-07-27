@@ -1,0 +1,82 @@
+body {
+    color: #6c757d !important;
+  }
+
+  .hide-msg {
+    display: none !important;
+  }
+
+  .fa-check {
+    color: green;
+  }
+
+  .input-group-text {
+    height: 32px !important;
+  }
+
+  .custom-file-label {
+    height: 32px !important;
+    overflow: hidden;
+  }
+
+  .custom-file-label::after {
+    height: 30px !important;
+  }
+
+  .input-group-text {
+    font-size: 0.8rem !important;
+  }
+
+  /* .input-group {
+     width: 80% !important; 
+     float: right !important; 
+  } */
+
+  .flexview {
+    display: inline-flex;
+  }
+  .eyecolor{
+    color: #007bff !important;
+  }
+  .iframemargin{
+    margin-bottom: -50px;
+  }
+  .fieldset-border {
+    width: 100%;
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    margin: 0 10px 15px 10px;
+    padding: 0 15px;
+}
+.fieldset-border legend {
+  width: auto;
+  background: #fff;
+  padding: 0 10px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #3d63d2;
+}
+.subheading {
+  font-size: 16px;
+  font-weight: 500;
+  color: #4066d4;
+  border-bottom: solid 1px #4066d4;
+  margin-bottom: 15px;
+}
+.divmargin {
+  margin-top: 19px;
+}
+
+.alert-info-msg{
+  color: green;
+}
+.alert-info-msg2{
+  color: red;
+}
+
+#blink {
+  font-size: 18px;
+  color: red;
+  transition: 0.5s;
+  text-align: center;
+}
